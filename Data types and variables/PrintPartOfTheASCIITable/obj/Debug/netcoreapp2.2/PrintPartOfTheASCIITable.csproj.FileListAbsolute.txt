@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\PrintPartOfTheASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfTheASCIITable.genruntimeconfig.cache

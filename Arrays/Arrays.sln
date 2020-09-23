@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train", "Train\Train.csproj", "{D3F8D4E0-3317-4D63-8510-31988D06DFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonElements", "CommonElements\CommonElements.csproj", "{943C37F4-DE88-443C-8EDC-497CB817DFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F8D4E0-3317-4D63-8510-31988D06DFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F8D4E0-3317-4D63-8510-31988D06DFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F8D4E0-3317-4D63-8510-31988D06DFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F8D4E0-3317-4D63-8510-31988D06DFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943C37F4-DE88-443C-8EDC-497CB817DFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943C37F4-DE88-443C-8EDC-497CB817DFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943C37F4-DE88-443C-8EDC-497CB817DFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943C37F4-DE88-443C-8EDC-497CB817DFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

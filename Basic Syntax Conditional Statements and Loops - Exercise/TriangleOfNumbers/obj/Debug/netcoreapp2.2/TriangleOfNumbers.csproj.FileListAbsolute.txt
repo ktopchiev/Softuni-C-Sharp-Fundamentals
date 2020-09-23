@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.2\TriangleOfNumbers.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.2\TriangleOfNumbers.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.2\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.2\TriangleOfNumbers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.2\TriangleOfNumbers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.2\TriangleOfNumbers.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.2\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.2\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.2\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.2\TriangleOfNumbers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.2\TriangleOfNumbers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.2\TriangleOfNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\bin\Debug\netcoreapp2.2\Elevator.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\bin\Debug\netcoreapp2.2\Elevator.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\bin\Debug\netcoreapp2.2\Elevator.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\obj\Debug\netcoreapp2.2\Elevator.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\obj\Debug\netcoreapp2.2\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\obj\Debug\netcoreapp2.2\Elevator.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\obj\Debug\netcoreapp2.2\Elevator.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Elevator\obj\Debug\netcoreapp2.2\Elevator.genruntimeconfig.cache

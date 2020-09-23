@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\bin\Debug\netcoreapp2.2\VendingMachines.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\bin\Debug\netcoreapp2.2\VendingMachines.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\bin\Debug\netcoreapp2.2\VendingMachines.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\bin\Debug\netcoreapp2.2\VendingMachines.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\bin\Debug\netcoreapp2.2\VendingMachines.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\obj\Debug\netcoreapp2.2\VendingMachines.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\obj\Debug\netcoreapp2.2\VendingMachines.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\obj\Debug\netcoreapp2.2\VendingMachines.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\obj\Debug\netcoreapp2.2\VendingMachines.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\obj\Debug\netcoreapp2.2\VendingMachines.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\obj\Debug\netcoreapp2.2\VendingMachines.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\VendingMachines\obj\Debug\netcoreapp2.2\VendingMachines.genruntimeconfig.cache

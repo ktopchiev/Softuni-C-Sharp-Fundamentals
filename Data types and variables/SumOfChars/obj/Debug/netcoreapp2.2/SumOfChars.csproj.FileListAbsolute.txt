@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\bin\Debug\netcoreapp2.2\SumOfChars.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\bin\Debug\netcoreapp2.2\SumOfChars.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\bin\Debug\netcoreapp2.2\SumOfChars.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\bin\Debug\netcoreapp2.2\SumOfChars.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\bin\Debug\netcoreapp2.2\SumOfChars.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\obj\Debug\netcoreapp2.2\SumOfChars.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\obj\Debug\netcoreapp2.2\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\obj\Debug\netcoreapp2.2\SumOfChars.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\obj\Debug\netcoreapp2.2\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\obj\Debug\netcoreapp2.2\SumOfChars.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\obj\Debug\netcoreapp2.2\SumOfChars.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumOfChars\obj\Debug\netcoreapp2.2\SumOfChars.genruntimeconfig.cache

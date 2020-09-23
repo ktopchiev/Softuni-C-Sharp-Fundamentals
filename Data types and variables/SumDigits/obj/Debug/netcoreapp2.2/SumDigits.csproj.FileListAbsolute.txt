@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.genruntimeconfig.cache

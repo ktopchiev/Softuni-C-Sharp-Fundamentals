@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\bin\Debug\netcoreapp2.2\Integer Operations.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\bin\Debug\netcoreapp2.2\Integer Operations.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\bin\Debug\netcoreapp2.2\Integer Operations.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\bin\Debug\netcoreapp2.2\Integer Operations.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\bin\Debug\netcoreapp2.2\Integer Operations.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\obj\Debug\netcoreapp2.2\Integer Operations.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\obj\Debug\netcoreapp2.2\Integer Operations.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\obj\Debug\netcoreapp2.2\Integer Operations.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\obj\Debug\netcoreapp2.2\Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\obj\Debug\netcoreapp2.2\Integer Operations.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\obj\Debug\netcoreapp2.2\Integer Operations.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\Integer Operations\obj\Debug\netcoreapp2.2\Integer Operations.genruntimeconfig.cache

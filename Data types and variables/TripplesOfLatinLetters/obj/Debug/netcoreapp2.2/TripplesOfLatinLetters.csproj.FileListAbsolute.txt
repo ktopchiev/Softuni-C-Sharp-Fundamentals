@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\bin\Debug\netcoreapp2.2\TripplesOfLatinLetters.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\bin\Debug\netcoreapp2.2\TripplesOfLatinLetters.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\bin\Debug\netcoreapp2.2\TripplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\bin\Debug\netcoreapp2.2\TripplesOfLatinLetters.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\bin\Debug\netcoreapp2.2\TripplesOfLatinLetters.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\obj\Debug\netcoreapp2.2\TripplesOfLatinLetters.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\obj\Debug\netcoreapp2.2\TripplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\obj\Debug\netcoreapp2.2\TripplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\obj\Debug\netcoreapp2.2\TripplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\obj\Debug\netcoreapp2.2\TripplesOfLatinLetters.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\obj\Debug\netcoreapp2.2\TripplesOfLatinLetters.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\TripplesOfLatinLetters\obj\Debug\netcoreapp2.2\TripplesOfLatinLetters.genruntimeconfig.cache

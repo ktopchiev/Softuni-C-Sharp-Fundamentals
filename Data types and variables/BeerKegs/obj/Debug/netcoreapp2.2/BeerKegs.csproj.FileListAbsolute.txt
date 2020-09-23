@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Data types and variables\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.genruntimeconfig.cache

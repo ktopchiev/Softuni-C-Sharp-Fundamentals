@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\bin\Debug\netcoreapp2.2\PadawanEquipment.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\bin\Debug\netcoreapp2.2\PadawanEquipment.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\bin\Debug\netcoreapp2.2\PadawanEquipment.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\bin\Debug\netcoreapp2.2\PadawanEquipment.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\bin\Debug\netcoreapp2.2\PadawanEquipment.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\obj\Debug\netcoreapp2.2\PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\obj\Debug\netcoreapp2.2\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\obj\Debug\netcoreapp2.2\PadawanEquipment.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\obj\Debug\netcoreapp2.2\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\obj\Debug\netcoreapp2.2\PadawanEquipment.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\obj\Debug\netcoreapp2.2\PadawanEquipment.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\PadawanEquipment\obj\Debug\netcoreapp2.2\PadawanEquipment.genruntimeconfig.cache
