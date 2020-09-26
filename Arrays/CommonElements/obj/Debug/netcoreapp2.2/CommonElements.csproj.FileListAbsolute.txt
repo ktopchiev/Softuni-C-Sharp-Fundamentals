@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.genruntimeconfig.cache
