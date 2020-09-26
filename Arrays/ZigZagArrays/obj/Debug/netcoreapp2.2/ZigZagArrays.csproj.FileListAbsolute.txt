@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\bin\Debug\netcoreapp2.2\ZigZagArrays.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\bin\Debug\netcoreapp2.2\ZigZagArrays.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\bin\Debug\netcoreapp2.2\ZigZagArrays.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\bin\Debug\netcoreapp2.2\ZigZagArrays.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\bin\Debug\netcoreapp2.2\ZigZagArrays.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\obj\Debug\netcoreapp2.2\ZigZagArrays.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\obj\Debug\netcoreapp2.2\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\obj\Debug\netcoreapp2.2\ZigZagArrays.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\obj\Debug\netcoreapp2.2\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\obj\Debug\netcoreapp2.2\ZigZagArrays.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\obj\Debug\netcoreapp2.2\ZigZagArrays.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ZigZagArrays\obj\Debug\netcoreapp2.2\ZigZagArrays.genruntimeconfig.cache

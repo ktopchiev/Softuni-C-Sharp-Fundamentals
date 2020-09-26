@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train", "Train\Train.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonElements", "CommonElements\CommonElements.csproj", "{943C37F4-DE88-443C-8EDC-497CB817DFAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZagArrays", "ZigZagArrays\ZigZagArrays.csproj", "{7B8FC875-C006-4248-9052-9AB540E0C474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{943C37F4-DE88-443C-8EDC-497CB817DFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{943C37F4-DE88-443C-8EDC-497CB817DFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{943C37F4-DE88-443C-8EDC-497CB817DFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8FC875-C006-4248-9052-9AB540E0C474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8FC875-C006-4248-9052-9AB540E0C474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8FC875-C006-4248-9052-9AB540E0C474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8FC875-C006-4248-9052-9AB540E0C474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
