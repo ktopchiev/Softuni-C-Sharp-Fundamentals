@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\bin\Debug\netcoreapp2.2\EqualSum.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\bin\Debug\netcoreapp2.2\EqualSum.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\bin\Debug\netcoreapp2.2\EqualSum.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\bin\Debug\netcoreapp2.2\EqualSum.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\bin\Debug\netcoreapp2.2\EqualSum.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\obj\Debug\netcoreapp2.2\EqualSum.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\obj\Debug\netcoreapp2.2\EqualSum.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\obj\Debug\netcoreapp2.2\EqualSum.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\obj\Debug\netcoreapp2.2\EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\obj\Debug\netcoreapp2.2\EqualSum.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\obj\Debug\netcoreapp2.2\EqualSum.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\EqualSum\obj\Debug\netcoreapp2.2\EqualSum.genruntimeconfig.cache
