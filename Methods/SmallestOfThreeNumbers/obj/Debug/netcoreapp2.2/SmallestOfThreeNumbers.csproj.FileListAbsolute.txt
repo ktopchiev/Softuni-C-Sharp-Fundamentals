@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.2\SmallestOfThreeNumbers.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.2\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.2\SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.2\SmallestOfThreeNumbers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.2\SmallestOfThreeNumbers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.2\SmallestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.2\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.2\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.2\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.2\SmallestOfThreeNumbers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.2\SmallestOfThreeNumbers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.2\SmallestOfThreeNumbers.genruntimeconfig.cache
