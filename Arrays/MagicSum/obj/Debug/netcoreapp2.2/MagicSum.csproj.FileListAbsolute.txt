@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\bin\Debug\netcoreapp2.2\MagicSum.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\bin\Debug\netcoreapp2.2\MagicSum.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\bin\Debug\netcoreapp2.2\MagicSum.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\bin\Debug\netcoreapp2.2\MagicSum.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\bin\Debug\netcoreapp2.2\MagicSum.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\obj\Debug\netcoreapp2.2\MagicSum.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\obj\Debug\netcoreapp2.2\MagicSum.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\obj\Debug\netcoreapp2.2\MagicSum.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\obj\Debug\netcoreapp2.2\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\obj\Debug\netcoreapp2.2\MagicSum.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\obj\Debug\netcoreapp2.2\MagicSum.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MagicSum\obj\Debug\netcoreapp2.2\MagicSum.genruntimeconfig.cache

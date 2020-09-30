@@ -7,6 +7,7 @@
     <projectFile>ArrayRotation/ArrayRotation.csproj</projectFile>
     <projectFile>EqualSum/EqualSum.csproj</projectFile>
     <projectFile>MaxSequenceOfEqualElements/MaxSequenceOfEqualElements.csproj</projectFile>
+    <projectFile>MagicSum/MagicSum.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -27,24 +28,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15e0bf75-9215-455a-abf5-e1bf56aae656" name="Default Changelist" comment="EqualSum">
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" afterDir="false" />
+    <list default="true" id="15e0bf75-9215-455a-abf5-e1bf56aae656" name="Default Changelist" comment="MaxSeqOfEqualEl">
+      <change afterPath="$PROJECT_DIR$/MagicSum/MagicSum.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/bin/Debug/netcoreapp2.2/MagicSum.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/bin/Debug/netcoreapp2.2/MagicSum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/bin/Debug/netcoreapp2.2/MagicSum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/bin/Debug/netcoreapp2.2/MagicSum.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/bin/Debug/netcoreapp2.2/MagicSum.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/Debug/netcoreapp2.2/MagicSum.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/Debug/netcoreapp2.2/MagicSum.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/Debug/netcoreapp2.2/MagicSum.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/Debug/netcoreapp2.2/MagicSum.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/Debug/netcoreapp2.2/MagicSum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/Debug/netcoreapp2.2/MagicSum.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/Debug/netcoreapp2.2/MagicSum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/MagicSum.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/MagicSum.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicSum/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayRotation/obj/Debug/netcoreapp2.2/ArrayRotation.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayRotation/obj/Debug/netcoreapp2.2/ArrayRotation.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxSequenceOfEqualElements/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZigZagArrays/obj/Debug/netcoreapp2.2/ZigZagArrays.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ZigZagArrays/obj/Debug/netcoreapp2.2/ZigZagArrays.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$. CSharp-Fundamentals-Arrays-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$. CSharp-Fundamentals-Arrays-Exercise.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +77,7 @@
         <option value="$PROJECT_DIR$/ArrayRotation/Program.cs" />
         <option value="$PROJECT_DIR$/EqualSum/Program.cs" />
         <option value="$PROJECT_DIR$/MaxSequenceOfEqualElements/Program.cs" />
+        <option value="$PROJECT_DIR$/MagicSum/Program.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +100,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.MaxSequenceOfEqualElements">
+  <component name="RunManager" selected=".NET Project.MagicSum">
     <configuration name="ArrayRotation" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -135,6 +146,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/EqualSum/EqualSum.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="MagicSum" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MagicSum/MagicSum.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -209,7 +238,7 @@
       <updated>1600890451019</updated>
       <workItem from="1600890490348" duration="5169000" />
       <workItem from="1601111143394" duration="14926000" />
-      <workItem from="1601456832282" duration="4878000" />
+      <workItem from="1601456832282" duration="6170000" />
     </task>
     <task id="LOCAL-00001" summary="zigzagarrays">
       <created>1601112002117</created>
@@ -246,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601126528339</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MaxSeqOfEqualEl">
+      <created>1601461782079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601461782079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,25 +314,26 @@
     <MESSAGE value="zigzagarrays" />
     <MESSAGE value="arrayrotation" />
     <MESSAGE value="EqualSum" />
-    <option name="LAST_COMMIT_MESSAGE" value="EqualSum" />
+    <MESSAGE value="MaxSeqOfEqualEl" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaxSeqOfEqualEl" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1601461499716">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1601462782559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
-    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1601461499716">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601462782559" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1601462782559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
-    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1601461499716">
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601462782559" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1601462782559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
-    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1601461499716">
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601462782559" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1601462782559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601462782559" />
     <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -361,18 +398,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1601126444800">
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1601462055468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1601126444800" />
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1601462055468" />
     <state x="226" y="56" key="SettingsEditor" timestamp="1600893159451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="226" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600893159451" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601126543917">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601461795688">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601126543917" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601461795688" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600893138291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
