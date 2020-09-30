@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.genruntimeconfig.cache

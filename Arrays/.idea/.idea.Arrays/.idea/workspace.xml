@@ -27,33 +27,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15e0bf75-9215-455a-abf5-e1bf56aae656" name="Default Changelist" comment="arrayrotation">
-      <change afterPath="$PROJECT_DIR$/EqualSum/EqualSum.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/bin/Debug/netcoreapp2.2/EqualSum.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/bin/Debug/netcoreapp2.2/EqualSum.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/bin/Debug/netcoreapp2.2/EqualSum.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/bin/Debug/netcoreapp2.2/EqualSum.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/bin/Debug/netcoreapp2.2/EqualSum.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/EqualSum.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/EqualSum.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/EqualSum.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualSum/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/MaxSequenceOfEqualElements.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="15e0bf75-9215-455a-abf5-e1bf56aae656" name="Default Changelist" comment="EqualSum">
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/bin/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/obj/Debug/netcoreapp2.2/MaxSequenceOfEqualElements.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayRotation/obj/Debug/netcoreapp2.2/ArrayRotation.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayRotation/obj/Debug/netcoreapp2.2/ArrayRotation.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EqualSum/obj/Debug/netcoreapp2.2/EqualSum.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxSequenceOfEqualElements/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MaxSequenceOfEqualElements/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZigZagArrays/obj/Debug/netcoreapp2.2/ZigZagArrays.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ZigZagArrays/obj/Debug/netcoreapp2.2/ZigZagArrays.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$. CSharp-Fundamentals-Arrays-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$. CSharp-Fundamentals-Arrays-Exercise.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +89,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.EqualSum">
+  <component name="RunManager" selected=".NET Project.MaxSequenceOfEqualElements">
     <configuration name="ArrayRotation" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -217,7 +208,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600890451019</updated>
       <workItem from="1600890490348" duration="5169000" />
-      <workItem from="1601111143394" duration="12935000" />
+      <workItem from="1601111143394" duration="14926000" />
+      <workItem from="1601456832282" duration="4878000" />
     </task>
     <task id="LOCAL-00001" summary="zigzagarrays">
       <created>1601112002117</created>
@@ -247,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601124296296</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="EqualSum">
+      <created>1601126528339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601126528339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,89 +277,90 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="zigzagarrays" />
     <MESSAGE value="arrayrotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrayrotation" />
+    <MESSAGE value="EqualSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="EqualSum" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1601126153749">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1601461499716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601126153749" />
-    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1601126153749">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1601461499716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601126153749" />
-    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1601126153749">
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1601461499716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601126153749" />
-    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1601126153749">
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1601461499716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601126153749" />
-    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1601126145091">
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601461499716" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.4.bottom" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.4.center" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.4.center" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.4.left" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.4.left" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
-    <state width="1493" height="288" key="GridCell.Tab.4.right" timestamp="1601126145091">
+    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
+    <state width="1493" height="288" key="GridCell.Tab.4.right" timestamp="1601461354063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1601126145091" />
+    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1601461354063" />
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1601126444800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -369,10 +369,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="226" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600893159451" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601124301161">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601126543917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601124301161" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601126543917" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600893138291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
