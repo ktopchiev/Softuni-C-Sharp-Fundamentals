@@ -9,10 +9,10 @@ namespace PasswordValidator
         {
             char[] password = Console.ReadLine().ToCharArray();
             bool length = CheckPassLength(password);
-            int content = CheckPassContent(password);
+            bool content = CheckPassContent(password);
             bool digitsNum = CheckDigitsNum(password);
 
-            if (length && content == 0 && digitsNum)
+            if (length && content && digitsNum)
             {
                 Console.WriteLine("Password is valid");
             }
@@ -24,7 +24,7 @@ namespace PasswordValidator
                     Console.WriteLine("Password must be between 6 and 10 characters");
                 }
 
-                if (content != 0)
+                if (!content)
                 {
                     Console.WriteLine("Password must consist only of letters and digits");
                 }
@@ -45,22 +45,11 @@ namespace PasswordValidator
         }
         
 
-        static int CheckPassContent(char[] password)
+        static bool CheckPassContent(char[] password)
         {
-            int notValid = 0;
+            bool valid = (Array.Exists(password, c => !Char.IsDigit(c) && !Char.IsLetter(c))) ? false : true;
             
-            foreach (var ch in password)
-            {
-                var letter = Char.IsLetter(ch);
-                var digit = Char.IsDigit(ch);
-                
-                if (!letter && !digit)
-                {
-                    notValid++;
-                }
-            }
-            
-            return notValid;
+            return valid;
         }
 
         static bool CheckDigitsNum(char[] password)

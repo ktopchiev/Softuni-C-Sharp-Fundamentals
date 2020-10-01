@@ -25,10 +25,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7e5fbf-7316-4b04-8e9b-e602856c0f1b" name="Default Changelist" comment="CharactersInRange">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Methods/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Methods/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="1c7e5fbf-7316-4b04-8e9b-e602856c0f1b" name="Default Changelist" comment="PasswordValidator">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Methods/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Methods.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordValidator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordValidator/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordValidator/bin/Debug/netcoreapp2.2/PasswordValidator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordValidator/bin/Debug/netcoreapp2.2/PasswordValidator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordValidator/bin/Debug/netcoreapp2.2/PasswordValidator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordValidator/bin/Debug/netcoreapp2.2/PasswordValidator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordValidator/obj/Debug/netcoreapp2.2/PasswordValidator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordValidator/obj/Debug/netcoreapp2.2/PasswordValidator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordValidator/obj/Debug/netcoreapp2.2/PasswordValidator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordValidator/obj/Debug/netcoreapp2.2/PasswordValidator.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +43,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../Arrays/EqualSum/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PasswordValidator/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/VowelsCount/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CharactersInRange/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -151,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601503353175</updated>
       <workItem from="1601503393312" duration="1164000" />
-      <workItem from="1601538313816" duration="7552000" />
+      <workItem from="1601538313816" duration="8434000" />
     </task>
     <task id="LOCAL-00001" summary="SmallestNum">
       <created>1601503637405</created>
@@ -188,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601541150889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="PasswordValidator">
+      <created>1601546192733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601546192733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,97 +224,98 @@
     <MESSAGE value="SmallestNum" />
     <MESSAGE value="vowels" />
     <MESSAGE value="CharactersInRange" />
-    <option name="LAST_COMMIT_MESSAGE" value="CharactersInRange" />
+    <MESSAGE value="PasswordValidator" />
+    <option name="LAST_COMMIT_MESSAGE" value="PasswordValidator" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom" timestamp="1601545577832">
+    <state width="1493" height="144" key="GridCell.Tab.0.bottom" timestamp="1601546783614">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545577832" />
-    <state width="1493" height="288" key="GridCell.Tab.0.center" timestamp="1601545577832">
+    <state width="1493" height="144" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601546783614" />
+    <state width="1493" height="144" key="GridCell.Tab.0.center" timestamp="1601546783614">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601545577832" />
-    <state width="1493" height="288" key="GridCell.Tab.0.left" timestamp="1601545577832">
+    <state width="1493" height="144" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601546783614" />
+    <state width="1493" height="144" key="GridCell.Tab.0.left" timestamp="1601546783614">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601545577832" />
-    <state width="1493" height="288" key="GridCell.Tab.0.right" timestamp="1601545577832">
+    <state width="1493" height="144" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601546783614" />
+    <state width="1493" height="144" key="GridCell.Tab.0.right" timestamp="1601546783614">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601545577832" />
-    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1601545608949">
+    <state width="1493" height="144" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601546783614" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545608949" />
-    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1601545608949">
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601545608949" />
-    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1601545608949">
+    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601545608949" />
-    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1601545608949">
+    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601545608949" />
-    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.4.bottom" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.4.center" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.4.center" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.4.left" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.4.left" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
-    <state width="1493" height="288" key="GridCell.Tab.4.right" timestamp="1601545577620">
+    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
+    <state width="1493" height="288" key="GridCell.Tab.4.right" timestamp="1601545945412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1601545577620" />
+    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1601545945412" />
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1601541358905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1601541358905" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601541153869">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601546197464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601541153869" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601546197464" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -323,13 +335,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/PasswordValidator/Program.cs</url>
-          <line>66</line>
+          <line>55</line>
           <properties documentPath="C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PasswordValidator\Program.cs" initialLine="40">
             <startOffsets>
-              <option value="1729" />
+              <option value="1499" />
             </startOffsets>
             <endOffsets>
-              <option value="1730" />
+              <option value="1500" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="3" />
@@ -339,10 +351,10 @@
           <line>48</line>
           <properties documentPath="C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PasswordValidator\Program.cs" initialLine="48">
             <startOffsets>
-              <option value="1284" />
+              <option value="1277" />
             </startOffsets>
             <endOffsets>
-              <option value="1285" />
+              <option value="1278" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="4" />
