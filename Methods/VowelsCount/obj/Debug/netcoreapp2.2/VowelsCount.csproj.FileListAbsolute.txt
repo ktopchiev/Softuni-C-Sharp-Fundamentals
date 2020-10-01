@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\bin\Debug\netcoreapp2.2\VowelsCount.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\bin\Debug\netcoreapp2.2\VowelsCount.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\bin\Debug\netcoreapp2.2\VowelsCount.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\bin\Debug\netcoreapp2.2\VowelsCount.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\bin\Debug\netcoreapp2.2\VowelsCount.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\obj\Debug\netcoreapp2.2\VowelsCount.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\obj\Debug\netcoreapp2.2\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\obj\Debug\netcoreapp2.2\VowelsCount.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\obj\Debug\netcoreapp2.2\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\obj\Debug\netcoreapp2.2\VowelsCount.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\obj\Debug\netcoreapp2.2\VowelsCount.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\VowelsCount\obj\Debug\netcoreapp2.2\VowelsCount.genruntimeconfig.cache
