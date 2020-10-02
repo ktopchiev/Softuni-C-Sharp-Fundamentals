@@ -39,25 +39,18 @@ namespace PasswordValidator
         static bool CheckPassLength(char[] password)
         {
 
-            bool length = (password.Length >= 6 && password.Length <= 10) ? true : false;
-
-            return length;
+            return (password.Length >= 6 && password.Length <= 10) ? true : false;
         }
         
 
         static bool CheckPassContent(char[] password)
         {
-            bool valid = (Array.Exists(password, c => !Char.IsDigit(c) && !Char.IsLetter(c))) ? false : true;
-            
-            return valid;
+            return (Array.Exists(password, c => !Char.IsDigit(c) && !Char.IsLetter(c))) ? false : true;
         }
 
         static bool CheckDigitsNum(char[] password)
         {
-            int digitsNum = password.Count(Char.IsDigit);
-            bool condIstrue = (digitsNum >= 2) ? true : false;
-
-            return condIstrue;
+            return (password.Count(Char.IsDigit) >= 2) ? true : false;
         }
     }
 }

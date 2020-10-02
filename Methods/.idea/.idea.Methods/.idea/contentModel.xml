@@ -4,6 +4,18 @@
     <e p="C:\Users\karlo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\karlo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Methods.-754343482.00" t="ExcludeRecursive" />
     <e p="C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods" t="IncludeFlat">
+      <e p="AddAndSubstract" t="IncludeRecursive">
+        <e p="AddAndSubstract.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="AddAndSubstract.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="CharactersInRange" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="CharactersInRange.csproj" t="IncludeRecursive" />
