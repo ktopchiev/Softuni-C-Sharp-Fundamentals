@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\bin\Debug\netcoreapp2.2\MiddleCharacters.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\bin\Debug\netcoreapp2.2\MiddleCharacters.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\bin\Debug\netcoreapp2.2\MiddleCharacters.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\bin\Debug\netcoreapp2.2\MiddleCharacters.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\bin\Debug\netcoreapp2.2\MiddleCharacters.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\obj\Debug\netcoreapp2.2\MiddleCharacters.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\obj\Debug\netcoreapp2.2\MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\obj\Debug\netcoreapp2.2\MiddleCharacters.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\obj\Debug\netcoreapp2.2\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\obj\Debug\netcoreapp2.2\MiddleCharacters.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\obj\Debug\netcoreapp2.2\MiddleCharacters.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\MiddleCharacters\obj\Debug\netcoreapp2.2\MiddleCharacters.genruntimeconfig.cache
