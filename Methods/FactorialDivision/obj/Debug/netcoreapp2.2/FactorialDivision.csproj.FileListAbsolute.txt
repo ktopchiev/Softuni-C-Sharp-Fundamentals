@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\bin\Debug\netcoreapp2.2\FactorialDivision.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\bin\Debug\netcoreapp2.2\FactorialDivision.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\bin\Debug\netcoreapp2.2\FactorialDivision.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\bin\Debug\netcoreapp2.2\FactorialDivision.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\bin\Debug\netcoreapp2.2\FactorialDivision.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\obj\Debug\netcoreapp2.2\FactorialDivision.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\obj\Debug\netcoreapp2.2\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\obj\Debug\netcoreapp2.2\FactorialDivision.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\obj\Debug\netcoreapp2.2\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\obj\Debug\netcoreapp2.2\FactorialDivision.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\obj\Debug\netcoreapp2.2\FactorialDivision.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\FactorialDivision\obj\Debug\netcoreapp2.2\FactorialDivision.genruntimeconfig.cache
