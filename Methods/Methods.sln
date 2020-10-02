@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddAndSubstract", "AddAndSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleCharacters", "MiddleCharacters\MiddleCharacters.csproj", "{0A5A76FE-4140-4A11-A0E1-31B56FC35D60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxNMatrix", "NxNMatrix\NxNMatrix.csproj", "{ECEA07CC-DBAF-4F2F-AE5C-44F66D6CDC27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{0A5A76FE-4140-4A11-A0E1-31B56FC35D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A5A76FE-4140-4A11-A0E1-31B56FC35D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A5A76FE-4140-4A11-A0E1-31B56FC35D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEA07CC-DBAF-4F2F-AE5C-44F66D6CDC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEA07CC-DBAF-4F2F-AE5C-44F66D6CDC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEA07CC-DBAF-4F2F-AE5C-44F66D6CDC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEA07CC-DBAF-4F2F-AE5C-44F66D6CDC27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

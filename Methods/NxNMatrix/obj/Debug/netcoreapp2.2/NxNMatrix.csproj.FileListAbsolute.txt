@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\bin\Debug\netcoreapp2.2\NxNMatrix.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\bin\Debug\netcoreapp2.2\NxNMatrix.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\bin\Debug\netcoreapp2.2\NxNMatrix.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\bin\Debug\netcoreapp2.2\NxNMatrix.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\bin\Debug\netcoreapp2.2\NxNMatrix.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\obj\Debug\netcoreapp2.2\NxNMatrix.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\obj\Debug\netcoreapp2.2\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\obj\Debug\netcoreapp2.2\NxNMatrix.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\obj\Debug\netcoreapp2.2\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\obj\Debug\netcoreapp2.2\NxNMatrix.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\obj\Debug\netcoreapp2.2\NxNMatrix.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\NxNMatrix\obj\Debug\netcoreapp2.2\NxNMatrix.genruntimeconfig.cache
