@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\bin\Debug\netcoreapp2.2\PalindromeIntegers.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\bin\Debug\netcoreapp2.2\PalindromeIntegers.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\bin\Debug\netcoreapp2.2\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\bin\Debug\netcoreapp2.2\PalindromeIntegers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\bin\Debug\netcoreapp2.2\PalindromeIntegers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\obj\Debug\netcoreapp2.2\PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\obj\Debug\netcoreapp2.2\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\obj\Debug\netcoreapp2.2\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\obj\Debug\netcoreapp2.2\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\obj\Debug\netcoreapp2.2\PalindromeIntegers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\obj\Debug\netcoreapp2.2\PalindromeIntegers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Methods\PalindromeIntegers\obj\Debug\netcoreapp2.2\PalindromeIntegers.genruntimeconfig.cache
