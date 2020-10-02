@@ -102,6 +102,18 @@
         <e p="Program.cs" t="Include" />
         <e p="SmallestOfThreeNumbers.csproj" t="IncludeRecursive" />
       </e>
+      <e p="TopNumber" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="TopNumber.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TopNumber.csproj" t="IncludeRecursive" />
+      </e>
       <e p="VowelsCount" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
