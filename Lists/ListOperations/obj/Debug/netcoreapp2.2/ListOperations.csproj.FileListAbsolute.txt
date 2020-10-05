@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\bin\Debug\netcoreapp2.2\ListOperations.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\bin\Debug\netcoreapp2.2\ListOperations.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\bin\Debug\netcoreapp2.2\ListOperations.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\bin\Debug\netcoreapp2.2\ListOperations.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\bin\Debug\netcoreapp2.2\ListOperations.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\obj\Debug\netcoreapp2.2\ListOperations.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\obj\Debug\netcoreapp2.2\ListOperations.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\obj\Debug\netcoreapp2.2\ListOperations.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\obj\Debug\netcoreapp2.2\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\obj\Debug\netcoreapp2.2\ListOperations.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\obj\Debug\netcoreapp2.2\ListOperations.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\obj\Debug\netcoreapp2.2\ListOperations.genruntimeconfig.cache
