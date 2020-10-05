@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\bin\Debug\netcoreapp2.2\ChangeList.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ChangeList\obj\Debug\netcoreapp2.2\ChangeList.genruntimeconfig.cache
