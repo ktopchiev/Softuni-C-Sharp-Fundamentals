@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\bin\Debug\netcoreapp2.2\HouseParty.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\bin\Debug\netcoreapp2.2\HouseParty.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\bin\Debug\netcoreapp2.2\HouseParty.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\bin\Debug\netcoreapp2.2\HouseParty.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\bin\Debug\netcoreapp2.2\HouseParty.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\obj\Debug\netcoreapp2.2\HouseParty.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\obj\Debug\netcoreapp2.2\HouseParty.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\obj\Debug\netcoreapp2.2\HouseParty.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\obj\Debug\netcoreapp2.2\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\obj\Debug\netcoreapp2.2\HouseParty.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\obj\Debug\netcoreapp2.2\HouseParty.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\HouseParty\obj\Debug\netcoreapp2.2\HouseParty.genruntimeconfig.cache
