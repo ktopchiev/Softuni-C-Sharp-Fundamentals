@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.genruntimeconfig.cache

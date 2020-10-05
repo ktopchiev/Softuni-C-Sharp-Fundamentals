@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\bin\Debug\netcoreapp2.2\ArrayRotation.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\bin\Debug\netcoreapp2.2\ArrayRotation.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\bin\Debug\netcoreapp2.2\ArrayRotation.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\bin\Debug\netcoreapp2.2\ArrayRotation.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\bin\Debug\netcoreapp2.2\ArrayRotation.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\obj\Debug\netcoreapp2.2\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\obj\Debug\netcoreapp2.2\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\obj\Debug\netcoreapp2.2\ArrayRotation.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\obj\Debug\netcoreapp2.2\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\obj\Debug\netcoreapp2.2\ArrayRotation.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\obj\Debug\netcoreapp2.2\ArrayRotation.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Arrays\ArrayRotation\obj\Debug\netcoreapp2.2\ArrayRotation.genruntimeconfig.cache
