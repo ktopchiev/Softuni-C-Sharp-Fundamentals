@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ArrayRotation
+namespace TopIntegers
 {
     class Program
     {

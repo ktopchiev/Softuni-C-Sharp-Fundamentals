@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\Arrays\\ArrayRotation\\ArrayRotation.csproj",
-      "projectName": "ArrayRotation",
-      "projectPath": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\Arrays\\ArrayRotation\\ArrayRotation.csproj",
+      "projectUniqueName": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\Arrays\\TopIntegers\\TopIntegers.csproj",
+      "projectName": "TopIntegers",
+      "projectPath": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\Arrays\\TopIntegers\\TopIntegers.csproj",
       "packagesPath": "C:\\Users\\karlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\Arrays\\ArrayRotation\\obj\\",
+      "outputPath": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\Arrays\\TopIntegers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\bin\Debug\netcoreapp2.2\Train.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\bin\Debug\netcoreapp2.2\Train.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\bin\Debug\netcoreapp2.2\Train.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\bin\Debug\netcoreapp2.2\Train.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\bin\Debug\netcoreapp2.2\Train.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\obj\Debug\netcoreapp2.2\Train.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\obj\Debug\netcoreapp2.2\Train.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\obj\Debug\netcoreapp2.2\Train.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\obj\Debug\netcoreapp2.2\Train.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\obj\Debug\netcoreapp2.2\Train.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\obj\Debug\netcoreapp2.2\Train.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\Train\obj\Debug\netcoreapp2.2\Train.genruntimeconfig.cache
