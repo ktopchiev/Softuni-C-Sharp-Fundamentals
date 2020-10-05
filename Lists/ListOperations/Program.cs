@@ -47,7 +47,7 @@ namespace ListOperations
                                 count = int.Parse(commandsInput[2]);
                                 MakeFirstBecomesLast(count, inputList);
                             }
-                            else if (commandsInput[1] == "right")
+                            else
                             {
                                 count = int.Parse(commandsInput[2]);
                                 MakeLastBecomeFirst(count, inputList);
@@ -71,30 +71,30 @@ namespace ListOperations
 
         public static List<int> MakeFirstBecomesLast(int count, List<int> list)
         {
-            List<int> reversedList = new List<int>();
-            reversedList = list;
+            List<int> rearangedList = new List<int>();
+            rearangedList = list;
             
             for (int i = 0; i < count; i++)
             {
-                reversedList.Add(list[0]);
-                reversedList.RemoveAt(0);
+                rearangedList.Add(list[0]);
+                rearangedList.RemoveAt(0);
             }
             
-            return reversedList;
+            return rearangedList;
         }
 
         public static List<int> MakeLastBecomeFirst(int count, List<int> list)
         {
-            List<int> reversedList = new List<int>();
-            reversedList = list;
+            List<int> rearangedList = new List<int>();
+            rearangedList = list;
             
             for (int i = 0; i < count; i++)
             {
-                reversedList.Insert(0,list.Last());
-                reversedList.RemoveAt(reversedList.Count - 1);
+                rearangedList.Insert(0,list.Last());
+                rearangedList.RemoveAt(reversedList.Count - 1);
             }
             
-            return reversedList;
+            return rearangedList;
         }
     }
 }
