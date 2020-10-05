@@ -16,6 +16,18 @@
         </e>
         <e p="Program.cs" t="Include" />
       </e>
+      <e p="HouseParty" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HouseParty.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="HouseParty.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="Lists.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="Train" t="IncludeRecursive">
