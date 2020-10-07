@@ -5,6 +5,7 @@
     <projectFile>ChangeList/ChangeList.csproj</projectFile>
     <projectFile>HouseParty/HouseParty.csproj</projectFile>
     <projectFile>ListOperations/ListOperations.csproj</projectFile>
+    <projectFile>BombNumbers/BombNumbers.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -25,38 +26,39 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7f79119-c802-4e40-9734-3fc44c489d6c" name="Default Changelist" comment="HouseParty">
-      <change afterPath="$PROJECT_DIR$/ListOperations/ListOperations.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/bin/Debug/netcoreapp2.2/ListOperations.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/bin/Debug/netcoreapp2.2/ListOperations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/bin/Debug/netcoreapp2.2/ListOperations.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/bin/Debug/netcoreapp2.2/ListOperations.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/bin/Debug/netcoreapp2.2/ListOperations.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/ListOperations.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/ListOperations.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/ListOperations.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperations/obj/rider.project.restore.info" afterDir="false" />
+    <list default="true" id="d7f79119-c802-4e40-9734-3fc44c489d6c" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/BombNumbers/BombNumbers.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/bin/Debug/netcoreapp2.2/BombNumbers.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/bin/Debug/netcoreapp2.2/BombNumbers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/bin/Debug/netcoreapp2.2/BombNumbers.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/bin/Debug/netcoreapp2.2/BombNumbers.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/bin/Debug/netcoreapp2.2/BombNumbers.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/BombNumbers.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/BombNumbers.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/BombNumbers.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/Debug/netcoreapp2.2/BombNumbers.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BombNumbers/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lists/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lists/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lists/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseParty/bin/Debug/netcoreapp2.2/HouseParty.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HouseParty/bin/Debug/netcoreapp2.2/HouseParty.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseParty/bin/Debug/netcoreapp2.2/HouseParty.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HouseParty/bin/Debug/netcoreapp2.2/HouseParty.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseParty/obj/Debug/netcoreapp2.2/HouseParty.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HouseParty/obj/Debug/netcoreapp2.2/HouseParty.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HouseParty/obj/Debug/netcoreapp2.2/HouseParty.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HouseParty/obj/Debug/netcoreapp2.2/HouseParty.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChangeList/obj/Debug/netcoreapp2.2/ChangeList.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChangeList/obj/Debug/netcoreapp2.2/ChangeList.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HouseParty/obj/Debug/netcoreapp2.2/HouseParty.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HouseParty/obj/Debug/netcoreapp2.2/HouseParty.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListOperations/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListOperations/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListOperations/obj/Debug/netcoreapp2.2/ListOperations.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lists.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Lists.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$. CSharp-Fundamentals-Lists-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$. CSharp-Fundamentals-Lists-Exercise.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +79,7 @@
         <option value="$PROJECT_DIR$/ChangeList/Program.cs" />
         <option value="$PROJECT_DIR$/HouseParty/Program.cs" />
         <option value="$PROJECT_DIR$/ListOperations/Program.cs" />
+        <option value="$PROJECT_DIR$/BombNumbers/Program.cs" />
       </list>
     </option>
   </component>
@@ -94,9 +97,28 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.ListOperations">
+  <component name="RunManager" selected=".NET Project.BombNumbers">
+    <configuration name="BombNumbers" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BombNumbers/BombNumbers.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="ChangeList" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/HouseParty/bin/Debug/netcoreapp2.2/HouseParty.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -174,6 +196,7 @@
       <item itemvalue=".NET Project.HouseParty" />
       <item itemvalue=".NET Project.Train" />
       <item itemvalue=".NET Project.ListOperations" />
+      <item itemvalue=".NET Project.BombNumbers" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -186,7 +209,9 @@
       <updated>1601633759844</updated>
       <workItem from="1601633762135" duration="840000" />
       <workItem from="1601673944875" duration="3017000" />
-      <workItem from="1601916549481" duration="9502000" />
+      <workItem from="1601916549481" duration="9937000" />
+      <workItem from="1602089322404" duration="146000" />
+      <workItem from="1602090282334" duration="9671000" />
     </task>
     <task id="LOCAL-00001" summary="Lists">
       <created>1601633905472</created>
@@ -230,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601919331195</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ListOperations">
+      <created>1601927098738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601927098738</updated>
+    </task>
+    <task id="LOCAL-00008" summary=".">
+      <created>1601927331605</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601927331605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +295,9 @@
     <MESSAGE value="Lists" />
     <MESSAGE value="ChangeList" />
     <MESSAGE value="HouseParty" />
-    <option name="LAST_COMMIT_MESSAGE" value="HouseParty" />
+    <MESSAGE value="ListOperations" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601918071930">
@@ -267,110 +308,114 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="437" height="464" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1601926223826" />
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom" timestamp="1601926902315">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602106557483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601926902315" />
-    <state width="1493" height="288" key="GridCell.Tab.0.center" timestamp="1601926902315">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602106557483" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602106557483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601926902315" />
-    <state width="1493" height="288" key="GridCell.Tab.0.left" timestamp="1601926902315">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602106557483" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602106557483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601926902315" />
-    <state width="1493" height="288" key="GridCell.Tab.0.right" timestamp="1601926902315">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602106557483" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602106557483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601926902315" />
-    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1601926886909">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602106557483" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601926886909" />
-    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1601926886909">
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601926886909" />
-    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1601926886909">
+    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601926886909" />
-    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1601926886909">
+    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601926886909" />
-    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.4.bottom" timestamp="1601926884342">
+    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601926884342" />
-    <state width="1493" height="288" key="GridCell.Tab.4.center" timestamp="1601926884342">
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.4.center" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1601926884342" />
-    <state width="1493" height="288" key="GridCell.Tab.4.left" timestamp="1601926884340">
+    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.4.left" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1601926884340" />
-    <state width="1493" height="288" key="GridCell.Tab.4.right" timestamp="1601926884342">
+    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state width="1493" height="288" key="GridCell.Tab.4.right" timestamp="1602106415913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1601926884342" />
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1601919409863">
+    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1602106415913" />
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1602090443134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1601919409863" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601919337277">
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1602090443134" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602090339199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601919337277" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602090339199" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601927336873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601927336873" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/ListOperations/Program.cs</url>
-          <line>17</line>
-          <properties documentPath="C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\ListOperations\Program.cs" initialLine="17">
+          <url>file://$PROJECT_DIR$/BombNumbers/Program.cs</url>
+          <line>19</line>
+          <properties documentPath="C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\Program.cs" initialLine="16">
             <startOffsets>
-              <option value="360" />
+              <option value="680" />
             </startOffsets>
             <endOffsets>
-              <option value="425" />
+              <option value="724" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

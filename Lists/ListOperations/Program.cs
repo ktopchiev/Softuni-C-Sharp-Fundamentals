@@ -91,7 +91,7 @@ namespace ListOperations
             for (int i = 0; i < count; i++)
             {
                 rearangedList.Insert(0,list.Last());
-                rearangedList.RemoveAt(reversedList.Count - 1);
+                rearangedList.RemoveAt(rearangedList.Count - 1);
             }
             
             return rearangedList;

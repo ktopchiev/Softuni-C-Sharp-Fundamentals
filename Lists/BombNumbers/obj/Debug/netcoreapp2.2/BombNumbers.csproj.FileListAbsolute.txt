@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.genruntimeconfig.cache
