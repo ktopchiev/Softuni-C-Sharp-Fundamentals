@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\bin\Debug\netcoreapp2.2\AppendArrays.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\bin\Debug\netcoreapp2.2\AppendArrays.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\bin\Debug\netcoreapp2.2\AppendArrays.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\bin\Debug\netcoreapp2.2\AppendArrays.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\bin\Debug\netcoreapp2.2\AppendArrays.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\obj\Debug\netcoreapp2.2\AppendArrays.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\obj\Debug\netcoreapp2.2\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\obj\Debug\netcoreapp2.2\AppendArrays.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\obj\Debug\netcoreapp2.2\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\obj\Debug\netcoreapp2.2\AppendArrays.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\obj\Debug\netcoreapp2.2\AppendArrays.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Lists\AppendArrays\obj\Debug\netcoreapp2.2\AppendArrays.genruntimeconfig.cache
