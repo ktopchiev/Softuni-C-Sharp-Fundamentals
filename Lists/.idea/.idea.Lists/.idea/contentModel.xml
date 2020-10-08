@@ -16,6 +16,18 @@
         </e>
         <e p="Program.cs" t="Include" />
       </e>
+      <e p="CardsGame" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CardsGame.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="CardsGame.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="ChangeList" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ChangeList.csproj" t="IncludeRecursive" />
