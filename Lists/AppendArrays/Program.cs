@@ -17,7 +17,7 @@ namespace AppendArrays
                 {
                     string s = element;
                     
-                    //Remove more than one whitespaces between elements
+                    //Remove where whitespaces between element are more than one
                     RegexOptions options = RegexOptions.None;
                     Regex regex = new Regex("[ ]{2,}", options);
                     s = regex.Replace(s, " ");
