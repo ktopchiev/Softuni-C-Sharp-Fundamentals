@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp2.2\RageExpenses.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp2.2\RageExpenses.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp2.2\RageExpenses.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp2.2\RageExpenses.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\bin\Debug\netcoreapp2.2\RageExpenses.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp2.2\RageExpenses.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp2.2\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp2.2\RageExpenses.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp2.2\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp2.2\RageExpenses.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp2.2\RageExpenses.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Basic Syntax Conditional Statements and Loops - Exercise\RageExpenses\obj\Debug\netcoreapp2.2\RageExpenses.genruntimeconfig.cache
