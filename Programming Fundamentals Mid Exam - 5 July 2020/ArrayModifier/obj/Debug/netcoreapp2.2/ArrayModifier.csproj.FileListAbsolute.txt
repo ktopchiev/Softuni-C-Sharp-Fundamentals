@@ -1,0 +1,12 @@
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\bin\Debug\netcoreapp2.2\ArrayModifier.deps.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\bin\Debug\netcoreapp2.2\ArrayModifier.runtimeconfig.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\bin\Debug\netcoreapp2.2\ArrayModifier.runtimeconfig.dev.json
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\bin\Debug\netcoreapp2.2\ArrayModifier.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\bin\Debug\netcoreapp2.2\ArrayModifier.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\obj\Debug\netcoreapp2.2\ArrayModifier.csprojAssemblyReference.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\obj\Debug\netcoreapp2.2\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\obj\Debug\netcoreapp2.2\ArrayModifier.AssemblyInfo.cs
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\obj\Debug\netcoreapp2.2\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\obj\Debug\netcoreapp2.2\ArrayModifier.dll
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\obj\Debug\netcoreapp2.2\ArrayModifier.pdb
+C:\Users\karlo\Desktop\C# Fundamentals - September 2020\Programming Fundamentals Mid Exam - 5 July 2020\ArrayModifier\obj\Debug\netcoreapp2.2\ArrayModifier.genruntimeconfig.cache

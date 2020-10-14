@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace SoftUniReception
 {
@@ -12,19 +13,23 @@ namespace SoftUniReception
             int studentsCount = int.Parse(Console.ReadLine());
             int hours = 0;
             int timeEfficiencySum = firstEmployeeEff + secondEmployeeEff + thirdEmployeeEff;
-            int limit = studentsCount / timeEfficiencySum;
-            
-            for (int i = 1; i <= limit + 1; i++)
+
+
+            while (studentsCount > 0)
             {
                 studentsCount -= timeEfficiencySum;
                 hours++;
-                if (i % 4 == 0)
+                
+                if (hours % 4 == 0)
                 {
                     hours++;
-                }
+                }   
             }
 
-            Console.WriteLine($"Time needed: {hours}h.");
+            StringBuilder sb = new StringBuilder($"Time needed: {hours}h.");
+            var msg = sb.ToString();
+            
+            Console.WriteLine(msg);
         }
     }
 }
