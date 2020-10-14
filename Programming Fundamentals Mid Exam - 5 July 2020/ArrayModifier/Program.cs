@@ -26,7 +26,7 @@ namespace ArrayModifier
                     }
                     else if (commands[0] == "multiply")
                     {
-                        //This multiplies two numbers and then replace the first of them with the result
+                        //Multiplies two numbers and then replace the first of them with the result
                         long multipliedNum = integers[value1] * integers[value2];
                         integers[value1] = multipliedNum;
                     }
