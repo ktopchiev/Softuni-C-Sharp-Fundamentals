@@ -13,7 +13,7 @@ namespace ArrayModifier
             {
                 string[] commands = Console.ReadLine().Split(' ').ToArray();
 
-                if (commands.Contains("swap") || commands.Contains("multiply"))
+                if (commands.Length > 1)
                 {
                     int value1 = int.Parse(commands[1]);
                     int value2 = int.Parse(commands[2]);
@@ -26,6 +26,7 @@ namespace ArrayModifier
                     }
                     else if (commands[0] == "multiply")
                     {
+                        //This multiplies two numbers and then replace the first of them with the result
                         long multipliedNum = integers[value1] * integers[value2];
                         integers[value1] = multipliedNum;
                     }

@@ -24,63 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75cd6350-76b8-40c2-af97-aef9db23f2ae" name="Default Changelist" comment="Exam">
-      <change afterPath="$PROJECT_DIR$/02. Array Modifier_Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/ArrayModifier.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/bin/Debug/netcoreapp2.2/ArrayModifier.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/bin/Debug/netcoreapp2.2/ArrayModifier.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/bin/Debug/netcoreapp2.2/ArrayModifier.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/bin/Debug/netcoreapp2.2/ArrayModifier.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/bin/Debug/netcoreapp2.2/ArrayModifier.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/ArrayModifier.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/ArrayModifier.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/ArrayModifier.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/Debug/netcoreapp2.2/ArrayModifier.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayModifier/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/~$. Array Modifier_Description.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Mid Exam - 5 July 2020/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Mid Exam - 5 July 2020/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniReception/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniReception/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniReception/bin/Debug/netcoreapp2.2/SoftUniReception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniReception/bin/Debug/netcoreapp2.2/SoftUniReception.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniReception/bin/Debug/netcoreapp2.2/SoftUniReception.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniReception/bin/Debug/netcoreapp2.2/SoftUniReception.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniReception/obj/Debug/netcoreapp2.2/SoftUniReception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniReception/obj/Debug/netcoreapp2.2/SoftUniReception.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniReception/obj/Debug/netcoreapp2.2/SoftUniReception.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniReception/obj/Debug/netcoreapp2.2/SoftUniReception.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$. SoftUni Reception_Description.docx" beforeDir="false" />
+    <list default="true" id="75cd6350-76b8-40c2-af97-aef9db23f2ae" name="Default Changelist" comment="Delete ConsoleApp1">
+      <change beforePath="$PROJECT_DIR$/ArrayModifier/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayModifier/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Basic Syntax Conditional Statements and Loops - Exercise/RageExpenses/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -183,7 +131,7 @@
       <updated>1602421085528</updated>
       <workItem from="1602421087291" duration="4856000" />
       <workItem from="1602488020217" duration="11037000" />
-      <workItem from="1602666867181" duration="1411000" />
+      <workItem from="1602666867181" duration="1792000" />
     </task>
     <task id="LOCAL-00001" summary="Exam">
       <created>1602422819069</created>
@@ -192,7 +140,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602422819069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ArrayModifier">
+      <created>1602668422977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602668422977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ArrayModifier">
+      <created>1602668436554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602668436554</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Delete ConsoleApp1">
+      <created>1602668568428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602668568428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +185,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exam" />
+    <MESSAGE value="ArrayModifier" />
+    <MESSAGE value="Delete ConsoleApp1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete ConsoleApp1" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1493" height="311" key="GridCell.Tab.0.bottom" timestamp="1602668266122">
@@ -303,9 +274,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1602493120348" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602422822009">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602668574087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602422822009" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602668574087" />
   </component>
 </project>
