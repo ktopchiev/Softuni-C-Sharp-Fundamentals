@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniReception", "SoftUni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayModifier", "ArrayModifier\ArrayModifier.csproj", "{E356805D-2BE7-4A46-A6BA-C30FF52F6D06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{2742AAD6-284A-466B-8DD5-C339B692E99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{E356805D-2BE7-4A46-A6BA-C30FF52F6D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E356805D-2BE7-4A46-A6BA-C30FF52F6D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E356805D-2BE7-4A46-A6BA-C30FF52F6D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2742AAD6-284A-466B-8DD5-C339B692E99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2742AAD6-284A-466B-8DD5-C339B692E99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2742AAD6-284A-466B-8DD5-C339B692E99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2742AAD6-284A-466B-8DD5-C339B692E99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
