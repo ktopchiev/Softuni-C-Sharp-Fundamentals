@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScoringSystem", "BonusScoringSystem\BonusScoringSystem.csproj", "{D922D732-E96C-46D7-94B6-5A894E4A2A5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuOnline", "MuOnline\MuOnline.csproj", "{230C81CD-FA71-4EC3-8D52-0DED99B46706}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D922D732-E96C-46D7-94B6-5A894E4A2A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D922D732-E96C-46D7-94B6-5A894E4A2A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D922D732-E96C-46D7-94B6-5A894E4A2A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230C81CD-FA71-4EC3-8D52-0DED99B46706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230C81CD-FA71-4EC3-8D52-0DED99B46706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230C81CD-FA71-4EC3-8D52-0DED99B46706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230C81CD-FA71-4EC3-8D52-0DED99B46706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
