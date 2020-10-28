@@ -1,0 +1,12 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/bin/Debug/netcoreapp2.2/BonusScoringSystem.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/bin/Debug/netcoreapp2.2/BonusScoringSystem.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/bin/Debug/netcoreapp2.2/BonusScoringSystem.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/bin/Debug/netcoreapp2.2/BonusScoringSystem.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/bin/Debug/netcoreapp2.2/BonusScoringSystem.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/obj/Debug/netcoreapp2.2/BonusScoringSystem.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/obj/Debug/netcoreapp2.2/BonusScoringSystem.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/obj/Debug/netcoreapp2.2/BonusScoringSystem.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/obj/Debug/netcoreapp2.2/BonusScoringSystem.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/obj/Debug/netcoreapp2.2/BonusScoringSystem.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/obj/Debug/netcoreapp2.2/BonusScoringSystem.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 1/BonusScoringSystem/obj/Debug/netcoreapp2.2/BonusScoringSystem.genruntimeconfig.cache
