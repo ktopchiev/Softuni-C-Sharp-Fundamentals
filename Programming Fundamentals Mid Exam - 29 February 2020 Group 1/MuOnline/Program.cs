@@ -46,6 +46,7 @@ namespace MuOnline
                     health += value;
                     if (health > 100)
                     {
+                        value = value - (health - 100);
                         health = 100;
                     }
 
