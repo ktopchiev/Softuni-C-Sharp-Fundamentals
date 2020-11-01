@@ -24,22 +24,42 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05b7686e-4cce-4ac7-8137-499b91ab819b" name="Default Changelist" comment="MuOnline already done">
-      <change afterPath="$PROJECT_DIR$/Inventory/bin/Debug/netcoreapp3.1/Inventory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/bin/Debug/netcoreapp3.1/Inventory.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/bin/Debug/netcoreapp3.1/Inventory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/bin/Debug/netcoreapp3.1/Inventory.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/bin/Debug/netcoreapp3.1/Inventory.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/bin/Debug/netcoreapp3.1/Inventory.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/obj/Debug/netcoreapp3.1/Inventory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/obj/Debug/netcoreapp3.1/Inventory.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/obj/Debug/netcoreapp3.1/Inventory.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/obj/Debug/netcoreapp3.1/Inventory.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/obj/Debug/netcoreapp3.1/Inventory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/obj/Debug/netcoreapp3.1/Inventory.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory/obj/Debug/netcoreapp3.1/Inventory.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Mid Exam - 29 February 2020 Group 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Mid Exam - 29 February 2020 Group 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventory/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory/Program.cs" afterDir="false" />
+    <list default="true" id="05b7686e-4cce-4ac7-8137-499b91ab819b" name="Default Changelist" comment="Inventory">
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/.idea.ObjectsAndClasses/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/AdvertismentMessage.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/AdvertismentMessage.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/AdvertismentMessage.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/AdvertismentMessage.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/AdvertismentMessage/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/ObjectsAndClasses.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +172,7 @@
       <workItem from="1602802681860" duration="142000" />
       <workItem from="1603842290311" duration="215000" />
       <workItem from="1603876882002" duration="7229000" />
-      <workItem from="1604251683689" duration="2675000" />
+      <workItem from="1604251683689" duration="3217000" />
     </task>
     <task id="LOCAL-00001" summary="BonusScoringSystem">
       <created>1603879811659</created>
@@ -196,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604252327656</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Inventory">
+      <created>1604254591941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604254591941</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,9 +249,9 @@
     <MESSAGE value="BonusScoringSystem" />
     <MESSAGE value="MuOnline" />
     <MESSAGE value="MuOnline 70% with wrong tests may be" />
-    <MESSAGE value="Inventory" />
     <MESSAGE value="MuOnline already done" />
-    <option name="LAST_COMMIT_MESSAGE" value="MuOnline already done" />
+    <MESSAGE value="Inventory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inventory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603878465835">
@@ -235,22 +262,22 @@
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
     <state width="429" height="525" key="DebuggerActiveHint/0.0.1920.1031@0.0.1920.1031" timestamp="1604253930511" />
-    <state width="1874" height="268" key="GridCell.Tab.0.bottom" timestamp="1604254287109">
+    <state width="1874" height="268" key="GridCell.Tab.0.bottom" timestamp="1604254487590">
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1031@0.0.1920.1031" timestamp="1604254287109" />
-    <state width="1874" height="268" key="GridCell.Tab.0.center" timestamp="1604254287108">
+    <state width="1874" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1031@0.0.1920.1031" timestamp="1604254487590" />
+    <state width="1874" height="268" key="GridCell.Tab.0.center" timestamp="1604254487590">
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.center/0.0.1920.1031@0.0.1920.1031" timestamp="1604254287108" />
-    <state width="1874" height="268" key="GridCell.Tab.0.left" timestamp="1604254287108">
+    <state width="1874" height="268" key="GridCell.Tab.0.center/0.0.1920.1031@0.0.1920.1031" timestamp="1604254487590" />
+    <state width="1874" height="268" key="GridCell.Tab.0.left" timestamp="1604254487589">
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.left/0.0.1920.1031@0.0.1920.1031" timestamp="1604254287108" />
-    <state width="1874" height="268" key="GridCell.Tab.0.right" timestamp="1604254287108">
+    <state width="1874" height="268" key="GridCell.Tab.0.left/0.0.1920.1031@0.0.1920.1031" timestamp="1604254487589" />
+    <state width="1874" height="268" key="GridCell.Tab.0.right" timestamp="1604254487590">
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.right/0.0.1920.1031@0.0.1920.1031" timestamp="1604254287108" />
+    <state width="1874" height="268" key="GridCell.Tab.0.right/0.0.1920.1031@0.0.1920.1031" timestamp="1604254487590" />
     <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1604254285720">
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
@@ -323,10 +350,10 @@
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
     <state x="100" y="99" width="1720" height="831" key="VCS.FileHistoryDialog/0.0.1920.1031@0.0.1920.1031" timestamp="1604252646609" />
-    <state x="555" y="250" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1604252332639">
+    <state x="555" y="250" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1604254601115">
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
-    <state x="555" y="250" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1031@0.0.1920.1031" timestamp="1604252332639" />
+    <state x="555" y="250" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1031@0.0.1920.1031" timestamp="1604254601115" />
     <state width="960" height="515" key="XDebugger.FullValuePopup" timestamp="1603882227486">
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
