@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/bin/Debug/netcoreapp3.1/MovingTarget
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/bin/Debug/netcoreapp3.1/MovingTarget.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/bin/Debug/netcoreapp3.1/MovingTarget.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/bin/Debug/netcoreapp3.1/MovingTarget.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/bin/Debug/netcoreapp3.1/MovingTarget.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/bin/Debug/netcoreapp3.1/MovingTarget.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/obj/Debug/netcoreapp3.1/MovingTarget.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/obj/Debug/netcoreapp3.1/MovingTarget.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/obj/Debug/netcoreapp3.1/MovingTarget.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/obj/Debug/netcoreapp3.1/MovingTarget.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/obj/Debug/netcoreapp3.1/MovingTarget.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/obj/Debug/netcoreapp3.1/MovingTarget.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam Retake - 07 April 2020/MovingTarget/obj/Debug/netcoreapp3.1/MovingTarget.genruntimeconfig.cache
