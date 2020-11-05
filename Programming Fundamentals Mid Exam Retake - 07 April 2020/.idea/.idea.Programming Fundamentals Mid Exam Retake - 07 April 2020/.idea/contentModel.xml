@@ -17,6 +17,18 @@
         </e>
       </e>
       <e p="Programming Fundamentals Mid Exam Retake - 07 April 2020.sln" t="IncludeFlat" />
+      <e p="ShootForTheWin" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="ShootForTheWin.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ShootForTheWin.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
