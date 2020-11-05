@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/bin/Debug/netcoreapp3.1/NationalCourt
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/bin/Debug/netcoreapp3.1/NationalCourt.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/bin/Debug/netcoreapp3.1/NationalCourt.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/bin/Debug/netcoreapp3.1/NationalCourt.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/bin/Debug/netcoreapp3.1/NationalCourt.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/bin/Debug/netcoreapp3.1/NationalCourt.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/obj/Debug/netcoreapp3.1/NationalCourt.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/obj/Debug/netcoreapp3.1/NationalCourt.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/obj/Debug/netcoreapp3.1/NationalCourt.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/obj/Debug/netcoreapp3.1/NationalCourt.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/obj/Debug/netcoreapp3.1/NationalCourt.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/obj/Debug/netcoreapp3.1/NationalCourt.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Mid Exam - 29 February 2020 Group 2/NationalCourt/obj/Debug/netcoreapp3.1/NationalCourt.genruntimeconfig.cache
