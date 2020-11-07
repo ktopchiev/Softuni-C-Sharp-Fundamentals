@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ktopchiev/SU/ObjectsAndClasses/AdvertismentMessage/AdvertismentMessage.csproj",
+      "projectUniqueName": "/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/AdvertismentMessage.csproj",
       "projectName": "AdvertismentMessage",
-      "projectPath": "/home/ktopchiev/SU/ObjectsAndClasses/AdvertismentMessage/AdvertismentMessage.csproj",
+      "projectPath": "/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/AdvertismentMessage.csproj",
       "packagesPath": "/home/ktopchiev/.nuget/packages/",
-      "outputPath": "/home/ktopchiev/SU/ObjectsAndClasses/AdvertismentMessage/obj/",
+      "outputPath": "/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ktopchiev/.nuget/NuGet/NuGet.Config"

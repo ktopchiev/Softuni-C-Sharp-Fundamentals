@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nHZiHReazUbDe4oBqxb1gYQtK8nSF5BatS9vCON0nWEFfpNhOLBoFbuEZoijIJfM4617lw0kz5rNR36q/SjhTw==",
+  "dgSpecHash": "bqyqBzFcIOc0hfHPSOYY2qQia7Ag6WxuyG36ldi8Ytmv7SvDXpPA5WeDJxJ+yaCM2d1vZAApYAohE+m8K7HN0g==",
   "success": true,
-  "projectFilePath": "/home/ktopchiev/SU/ObjectsAndClasses/AdvertismentMessage/AdvertismentMessage.csproj",
+  "projectFilePath": "/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/AdvertismentMessage.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
