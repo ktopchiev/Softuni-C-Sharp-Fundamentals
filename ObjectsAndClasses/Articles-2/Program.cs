@@ -37,20 +37,20 @@ namespace Articles
         {
             var sortBycommand = command;
             List<Article> sortedList = new List<Article>();
-            
-            if (sortBycommand.Equals("title"))
-            {
-                sortedList = articles.OrderBy(x => x.Title).ToList();
-            }
-            else if (sortBycommand.Equals("content"))
-            {
-                sortedList = articles.OrderBy(x => x.Content).ToList();
-            }
-            else if (sortBycommand.Equals("author"))
-            {
-                sortedList = articles.OrderBy(x => x.Author).ToList();
-            }
 
+            switch (sortBycommand)
+            {
+                case "title":
+                    sortedList = articles.OrderBy(x => x.Title).ToList();
+                    break;
+                case "content":
+                    sortedList = articles.OrderBy(x => x.Content).ToList();
+                    break;
+                case "author":
+                    sortedList = articles.OrderBy(x => x.Author).ToList();
+                    break;
+            }
+            
             return sortedList;
         }
     }

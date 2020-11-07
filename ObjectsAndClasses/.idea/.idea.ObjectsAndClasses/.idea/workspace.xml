@@ -25,9 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27a53327-0ab5-4d7b-949c-285682d632c3" name="Default Changelist" comment="Articles class">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ObjectsAndClasses/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ObjectsAndClasses/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ObjectsAndClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ObjectsAndClasses/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectsAndClasses.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles-2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Articles-2/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Articles/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/00E4CC82-435B-478C-B083-227A479F9D7B/35/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/00E4CC82-435B-478C-B083-227A479F9D7B/301/TextWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Articles-2/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -134,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604247252962</updated>
       <workItem from="1604247258601" duration="3149000" />
-      <workItem from="1604759917457" duration="6286000" />
+      <workItem from="1604759917457" duration="6740000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1604760000077</created>
@@ -157,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604764236280</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Articles class">
+      <created>1604766437697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604766437697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,26 +193,26 @@
       <screen x="0" y="0" width="1920" height="1031" />
     </state>
     <state x="743" y="272" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1031@0.0.1920.1031" timestamp="1604251660798" />
-    <state width="1874" height="336" key="GridCell.Tab.0.bottom" timestamp="1604764387749">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1604766519513">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1031@0.0.1920.1031" timestamp="1604251662145" />
-    <state width="1874" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604764387749" />
-    <state width="1874" height="336" key="GridCell.Tab.0.center" timestamp="1604764387746">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604766519513" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1604766519511">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1031@0.0.1920.1031" timestamp="1604251662144" />
-    <state width="1874" height="336" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604764387746" />
-    <state width="1874" height="336" key="GridCell.Tab.0.left" timestamp="1604764387745">
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604766519511" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1604766519510">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1031@0.0.1920.1031" timestamp="1604251662143" />
-    <state width="1874" height="336" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604764387745" />
-    <state width="1874" height="336" key="GridCell.Tab.0.right" timestamp="1604764387748">
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604766519510" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1604766519513">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1031@0.0.1920.1031" timestamp="1604251662144" />
-    <state width="1874" height="336" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604764387748" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604766519513" />
     <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1604764387753">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -275,10 +281,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1604764426251" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1604764240485">
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1604766442065">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604764240485" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604766442065" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
