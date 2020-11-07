@@ -11,3 +11,16 @@
 /home/ktopchiev/SU/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.dll
 /home/ktopchiev/SU/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.pdb
 /home/ktopchiev/SU/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.genruntimeconfig.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/bin/Debug/netcoreapp3.1/AdvertismentMessage.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/AdvertismentMessage/obj/Debug/netcoreapp3.1/AdvertismentMessage.genruntimeconfig.cache
