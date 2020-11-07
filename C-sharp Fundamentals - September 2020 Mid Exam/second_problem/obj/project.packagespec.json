@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\C-sharp Fundamentals - September 2020 Mid Exam\\second_problem\\second_problem.csproj",
+    "projectUniqueName": "/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/C-sharp Fundamentals - September 2020 Mid Exam/second_problem/second_problem.csproj",
     "projectName": "second_problem",
-    "projectPath": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\C-sharp Fundamentals - September 2020 Mid Exam\\second_problem\\second_problem.csproj",
-    "outputPath": "C:\\Users\\karlo\\Desktop\\C# Fundamentals - September 2020\\C-sharp Fundamentals - September 2020 Mid Exam\\second_problem\\obj\\",
+    "projectPath": "/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/C-sharp Fundamentals - September 2020 Mid Exam/second_problem/second_problem.csproj",
+    "outputPath": "/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/C-sharp Fundamentals - September 2020 Mid Exam/second_problem/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
@@ -46,7 +43,7 @@
       ],
       "assetTargetFallback": true,
       "warn": true,
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
     }
   }
 }

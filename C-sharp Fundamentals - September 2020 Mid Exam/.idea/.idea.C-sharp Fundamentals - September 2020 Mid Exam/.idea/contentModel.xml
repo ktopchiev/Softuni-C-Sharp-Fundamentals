@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\karlo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\karlo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_C-sharp Fundamentals - September 2020 Mid Exam.1401003642.00" t="ExcludeRecursive" />
-    <e p="C:\Users\karlo\Desktop\C# Fundamentals - September 2020\C-sharp Fundamentals - September 2020 Mid Exam" t="IncludeFlat">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_C-sharp Fundamentals - September 2020 Mid Exam.1029499262.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="C-sharp Fundamentals - September 2020 Mid Exam.sln" t="IncludeFlat" />
       <e p="first-problem" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="first-problem.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
@@ -15,11 +16,10 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
-        <e p="Program.cs~" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="second_problem" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -28,10 +28,10 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
         <e p="second_problem.csproj" t="IncludeRecursive" />
       </e>
       <e p="third_problem" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -40,7 +40,6 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
         <e p="third_problem.csproj" t="IncludeRecursive" />
       </e>
     </e>
