@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/bin/Debug/netcoreapp3.1/Students
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/bin/Debug/netcoreapp3.1/Students.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/bin/Debug/netcoreapp3.1/Students.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/bin/Debug/netcoreapp3.1/Students.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/bin/Debug/netcoreapp3.1/Students.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/bin/Debug/netcoreapp3.1/Students.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/obj/Debug/netcoreapp3.1/Students.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/obj/Debug/netcoreapp3.1/Students.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/obj/Debug/netcoreapp3.1/Students.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/obj/Debug/netcoreapp3.1/Students.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/obj/Debug/netcoreapp3.1/Students.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/obj/Debug/netcoreapp3.1/Students.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/Students/obj/Debug/netcoreapp3.1/Students.genruntimeconfig.cache
