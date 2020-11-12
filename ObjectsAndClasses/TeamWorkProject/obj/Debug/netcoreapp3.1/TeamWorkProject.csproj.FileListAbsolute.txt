@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/bin/Debug/netcoreapp3.1/TeamWorkProject
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/bin/Debug/netcoreapp3.1/TeamWorkProject.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/bin/Debug/netcoreapp3.1/TeamWorkProject.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/bin/Debug/netcoreapp3.1/TeamWorkProject.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/bin/Debug/netcoreapp3.1/TeamWorkProject.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/bin/Debug/netcoreapp3.1/TeamWorkProject.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/obj/Debug/netcoreapp3.1/TeamWorkProject.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/obj/Debug/netcoreapp3.1/TeamWorkProject.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/obj/Debug/netcoreapp3.1/TeamWorkProject.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/obj/Debug/netcoreapp3.1/TeamWorkProject.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/obj/Debug/netcoreapp3.1/TeamWorkProject.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/obj/Debug/netcoreapp3.1/TeamWorkProject.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/ObjectsAndClasses/TeamWorkProject/obj/Debug/netcoreapp3.1/TeamWorkProject.genruntimeconfig.cache
