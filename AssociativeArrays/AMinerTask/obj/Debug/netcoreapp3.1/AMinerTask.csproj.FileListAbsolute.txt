@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/bin/Debug/netcoreapp3.1/AMinerTask
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/bin/Debug/netcoreapp3.1/AMinerTask.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/bin/Debug/netcoreapp3.1/AMinerTask.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/bin/Debug/netcoreapp3.1/AMinerTask.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/bin/Debug/netcoreapp3.1/AMinerTask.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/bin/Debug/netcoreapp3.1/AMinerTask.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.genruntimeconfig.cache

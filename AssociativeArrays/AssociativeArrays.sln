@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharsInAString", "CountCharsInAString\CountCharsInAString.csproj", "{08113434-EDEE-4C7A-874D-831BE366D37E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMinerTask", "AMinerTask\AMinerTask.csproj", "{C268D497-C100-40E5-966E-A35200AB4744}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{08113434-EDEE-4C7A-874D-831BE366D37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08113434-EDEE-4C7A-874D-831BE366D37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08113434-EDEE-4C7A-874D-831BE366D37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C268D497-C100-40E5-966E-A35200AB4744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C268D497-C100-40E5-966E-A35200AB4744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C268D497-C100-40E5-966E-A35200AB4744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C268D497-C100-40E5-966E-A35200AB4744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
