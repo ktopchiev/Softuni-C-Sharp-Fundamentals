@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/bin/Debug/netcoreapp3.1/CountCharsInAString
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/bin/Debug/netcoreapp3.1/CountCharsInAString.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/bin/Debug/netcoreapp3.1/CountCharsInAString.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/bin/Debug/netcoreapp3.1/CountCharsInAString.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/bin/Debug/netcoreapp3.1/CountCharsInAString.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/bin/Debug/netcoreapp3.1/CountCharsInAString.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/obj/Debug/netcoreapp3.1/CountCharsInAString.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/obj/Debug/netcoreapp3.1/CountCharsInAString.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/obj/Debug/netcoreapp3.1/CountCharsInAString.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/obj/Debug/netcoreapp3.1/CountCharsInAString.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/obj/Debug/netcoreapp3.1/CountCharsInAString.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/obj/Debug/netcoreapp3.1/CountCharsInAString.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CountCharsInAString/obj/Debug/netcoreapp3.1/CountCharsInAString.genruntimeconfig.cache
