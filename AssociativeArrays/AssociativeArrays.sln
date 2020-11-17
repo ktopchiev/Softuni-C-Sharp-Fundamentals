@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMinerTask", "AMinerTask\AM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendaryFarming", "LegendaryFarming\LegendaryFarming.csproj", "{EA808054-DCCA-42A0-84D0-24732A6DC65B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Orders\Orders.csproj", "{7F49542E-BDE9-4A8F-B306-CB675F4B8CE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{EA808054-DCCA-42A0-84D0-24732A6DC65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA808054-DCCA-42A0-84D0-24732A6DC65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA808054-DCCA-42A0-84D0-24732A6DC65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F49542E-BDE9-4A8F-B306-CB675F4B8CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F49542E-BDE9-4A8F-B306-CB675F4B8CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F49542E-BDE9-4A8F-B306-CB675F4B8CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F49542E-BDE9-4A8F-B306-CB675F4B8CE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
