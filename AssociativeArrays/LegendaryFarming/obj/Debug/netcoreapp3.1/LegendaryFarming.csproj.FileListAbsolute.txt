@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.genruntimeconfig.cache
