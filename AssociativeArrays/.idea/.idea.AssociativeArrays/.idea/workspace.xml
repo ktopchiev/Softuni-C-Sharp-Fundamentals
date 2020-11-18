@@ -4,6 +4,7 @@
     <projectFile>CountCharsInAString/CountCharsInAString.csproj</projectFile>
     <projectFile>AMinerTask/AMinerTask.csproj</projectFile>
     <projectFile>LegendaryFarming/LegendaryFarming.csproj</projectFile>
+    <projectFile>Orders/Orders.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -24,24 +25,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2c68238-f9c7-4fd2-a6b0-3f8deeaf4b2b" name="Default Changelist" comment="Legendary farming">
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.pdb" afterDir="false" />
+    <list default="true" id="e2c68238-f9c7-4fd2-a6b0-3f8deeaf4b2b" name="Default Changelist" comment="orders">
+      <change afterPath="$PROJECT_DIR$/Orders/bin/Debug/netcoreapp3.1/Orders" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/bin/Debug/netcoreapp3.1/Orders.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/bin/Debug/netcoreapp3.1/Orders.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/bin/Debug/netcoreapp3.1/Orders.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/obj/Debug/netcoreapp3.1/Orders" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/obj/Debug/netcoreapp3.1/Orders.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/obj/Debug/netcoreapp3.1/Orders.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/obj/Debug/netcoreapp3.1/Orders.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/obj/Debug/netcoreapp3.1/Orders.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AMinerTask/obj/Debug/netcoreapp3.1/AMinerTask.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LegendaryFarming/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LegendaryFarming/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orders/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Orders/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D67CFCDB-BB76-4ACF-8B6A-F250A5089BB1/41/OrderedEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/CD/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/A2/Number.Parsing.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/34/String.Comparison.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CountCharsInAString/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
@@ -66,6 +68,7 @@
         <option value="$PROJECT_DIR$/CountCharsInAString/Program.cs" />
         <option value="$PROJECT_DIR$/AMinerTask/Program.cs" />
         <option value="$PROJECT_DIR$/LegendaryFarming/Program.cs" />
+        <option value="$PROJECT_DIR$/Orders/Program.cs" />
       </list>
     </option>
   </component>
@@ -83,9 +86,10 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005425" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.LegendaryFarming">
+  <component name="RunManager" selected=".NET Project.Orders">
     <configuration name="AMinerTask" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -169,7 +173,8 @@
       <updated>1605260089182</updated>
       <workItem from="1605260094200" duration="4296000" />
       <workItem from="1605549247710" duration="8677000" />
-      <workItem from="1605629359243" duration="11751000" />
+      <workItem from="1605629359243" duration="13540000" />
+      <workItem from="1605708914978" duration="5985000" />
     </task>
     <task id="LOCAL-00001" summary="countChars">
       <created>1605260114815</created>
@@ -199,7 +204,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605263785025</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="legendary farming 60/100">
+      <created>1605643652147</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605643652148</updated>
+    </task>
+    <task id="LOCAL-00006" summary="orders">
+      <created>1605643718161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605643718161</updated>
+    </task>
+    <task id="LOCAL-00007" summary="orders">
+      <created>1605643722563</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605643722563</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,81 +251,87 @@
     <MESSAGE value="countChars" />
     <MESSAGE value="minerTask" />
     <MESSAGE value="Legendary farming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Legendary farming" />
+    <MESSAGE value="legendary farming 60/100" />
+    <MESSAGE value="orders" />
+    <option name="LAST_COMMIT_MESSAGE" value="orders" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1605643544946">
+    <state width="514" height="525" key="DebuggerActiveHint" timestamp="1605712944459">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605643544946" />
-    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1605643544945">
+    <state width="514" height="525" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1605712944459" />
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1605714950318">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605643544945" />
-    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1605643544945">
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605714950318" />
+    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1605714950316">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605643544945" />
-    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1605643544946">
+    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605714950316" />
+    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1605714950314">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605643544946" />
-    <state width="1874" height="280" key="GridCell.Tab.1.bottom" timestamp="1605641387136">
+    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605714950314" />
+    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1605714950317">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387136" />
-    <state width="1874" height="280" key="GridCell.Tab.1.center" timestamp="1605641387135">
+    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605714950317" />
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1605714879500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387135" />
-    <state width="1874" height="280" key="GridCell.Tab.1.left" timestamp="1605641387135">
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879500" />
+    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1605714879500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387135" />
-    <state width="1874" height="280" key="GridCell.Tab.1.right" timestamp="1605641387136">
+    <state width="1874" height="336" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879500" />
+    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1605714879500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387136" />
-    <state width="1874" height="280" key="GridCell.Tab.2.bottom" timestamp="1605641387137">
+    <state width="1874" height="336" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879500" />
+    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1605714879500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387137" />
-    <state width="1874" height="280" key="GridCell.Tab.2.center" timestamp="1605641387136">
+    <state width="1874" height="336" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879500" />
+    <state width="1874" height="336" key="GridCell.Tab.2.bottom" timestamp="1605714879501">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387136" />
-    <state width="1874" height="280" key="GridCell.Tab.2.left" timestamp="1605641387136">
+    <state width="1874" height="336" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879501" />
+    <state width="1874" height="336" key="GridCell.Tab.2.center" timestamp="1605714879500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387136" />
-    <state width="1874" height="280" key="GridCell.Tab.2.right" timestamp="1605641387137">
+    <state width="1874" height="336" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879500" />
+    <state width="1874" height="336" key="GridCell.Tab.2.left" timestamp="1605714879500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387137" />
-    <state width="1874" height="280" key="GridCell.Tab.3.bottom" timestamp="1605641387137">
+    <state width="1874" height="336" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879500" />
+    <state width="1874" height="336" key="GridCell.Tab.2.right" timestamp="1605714879501">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387137" />
-    <state width="1874" height="280" key="GridCell.Tab.3.center" timestamp="1605641387137">
+    <state width="1874" height="336" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879501" />
+    <state width="1874" height="336" key="GridCell.Tab.3.bottom" timestamp="1605714879501">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387137" />
-    <state width="1874" height="280" key="GridCell.Tab.3.left" timestamp="1605641387137">
+    <state width="1874" height="336" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879501" />
+    <state width="1874" height="336" key="GridCell.Tab.3.center" timestamp="1605714879501">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387137" />
-    <state width="1874" height="280" key="GridCell.Tab.3.right" timestamp="1605641387137">
+    <state width="1874" height="336" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879501" />
+    <state width="1874" height="336" key="GridCell.Tab.3.left" timestamp="1605714879501">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605641387137" />
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1605263769868">
+    <state width="1874" height="336" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879501" />
+    <state width="1874" height="336" key="GridCell.Tab.3.right" timestamp="1605714879501">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1605263769868" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605263788633">
+    <state width="1874" height="336" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605714879501" />
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1605643710301">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605263788633" />
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1605643710301" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605644779493">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605644779493" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

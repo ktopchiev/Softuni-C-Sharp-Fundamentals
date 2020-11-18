@@ -41,6 +41,18 @@
           </e>
         </e>
       </e>
+      <e p="Orders" t="IncludeRecursive">
+        <e p="Orders.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Orders.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>

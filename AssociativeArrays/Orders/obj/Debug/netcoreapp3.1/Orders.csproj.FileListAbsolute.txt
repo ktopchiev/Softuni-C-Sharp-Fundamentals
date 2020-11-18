@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/bin/Debug/netcoreapp3.1/Orders
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/bin/Debug/netcoreapp3.1/Orders.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/bin/Debug/netcoreapp3.1/Orders.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/bin/Debug/netcoreapp3.1/Orders.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/obj/Debug/netcoreapp3.1/Orders.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/obj/Debug/netcoreapp3.1/Orders.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/obj/Debug/netcoreapp3.1/Orders.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Orders/obj/Debug/netcoreapp3.1/Orders.genruntimeconfig.cache
