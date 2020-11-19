@@ -7,6 +7,7 @@
     <projectFile>Orders/Orders.csproj</projectFile>
     <projectFile>SoftUniParking/SoftUniParking.csproj</projectFile>
     <projectFile>Courses/Courses.csproj</projectFile>
+    <projectFile>StudentAcademy/StudentAcademy.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -27,29 +28,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2c68238-f9c7-4fd2-a6b0-3f8deeaf4b2b" name="Default Changelist" comment="parking">
-      <change afterPath="$PROJECT_DIR$/Courses/Courses.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/bin/Debug/netcoreapp3.1/Courses" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/bin/Debug/netcoreapp3.1/Courses.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/bin/Debug/netcoreapp3.1/Courses.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/bin/Debug/netcoreapp3.1/Courses.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/bin/Debug/netcoreapp3.1/Courses.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/bin/Debug/netcoreapp3.1/Courses.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/Courses" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/Courses.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/Courses.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/Courses.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/Courses.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/Courses.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/Courses.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="e2c68238-f9c7-4fd2-a6b0-3f8deeaf4b2b" name="Default Changelist" comment="courses">
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/StudentAcademy.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/StudentAcademy.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/StudentAcademy.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/StudentAcademy.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentAcademy/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AssociativeArrays.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AssociativeArrays.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniParking/bin/Debug/netcoreapp3.1/SoftUniParking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniParking/bin/Debug/netcoreapp3.1/SoftUniParking.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniParking/bin/Debug/netcoreapp3.1/SoftUniParking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniParking/bin/Debug/netcoreapp3.1/SoftUniParking.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniParking/obj/Debug/netcoreapp3.1/SoftUniParking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniParking/obj/Debug/netcoreapp3.1/SoftUniParking.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniParking/obj/Debug/netcoreapp3.1/SoftUniParking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniParking/obj/Debug/netcoreapp3.1/SoftUniParking.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +55,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D67CFCDB-BB76-4ACF-8B6A-F250A5089BB1/41/OrderedEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Courses/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/CD/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/A2/Number.Parsing.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/34/String.Comparison.cs" root0="SKIP_HIGHLIGHTING" />
@@ -79,6 +74,7 @@
         <option value="$PROJECT_DIR$/Orders/Program.cs" />
         <option value="$PROJECT_DIR$/SoftUniParking/Program.cs" />
         <option value="$PROJECT_DIR$/Courses/Program.cs" />
+        <option value="$PROJECT_DIR$/StudentAcademy/Program.cs" />
       </list>
     </option>
   </component>
@@ -208,6 +204,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="StudentAcademy" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StudentAcademy/StudentAcademy.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -220,7 +234,7 @@
       <workItem from="1605260094200" duration="4296000" />
       <workItem from="1605549247710" duration="8677000" />
       <workItem from="1605629359243" duration="13540000" />
-      <workItem from="1605708914978" duration="13872000" />
+      <workItem from="1605708914978" duration="14832000" />
     </task>
     <task id="LOCAL-00001" summary="countChars">
       <created>1605260114815</created>
@@ -292,7 +306,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605718796314</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="courses">
+      <created>1605806272660</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605806272660</updated>
+    </task>
+    <task id="LOCAL-00012" summary="courses">
+      <created>1605806277618</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605806277618</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,29 +349,30 @@
     <MESSAGE value="legendary farming 60/100" />
     <MESSAGE value="orders" />
     <MESSAGE value="parking" />
-    <option name="LAST_COMMIT_MESSAGE" value="parking" />
+    <MESSAGE value="courses" />
+    <option name="LAST_COMMIT_MESSAGE" value="courses" />
   </component>
   <component name="WindowStateProjectService">
     <state width="514" height="525" key="DebuggerActiveHint" timestamp="1605804596591">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="514" height="525" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1605804596591" />
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1605805804752">
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1605806218766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605805804752" />
-    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1605805804751">
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605806218766" />
+    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1605806218765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605805804751" />
-    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1605805804751">
+    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605806218765" />
+    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1605806218764">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605805804751" />
-    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1605805804752">
+    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605806218764" />
+    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1605806218765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605805804752" />
+    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605806218765" />
     <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1605805183381">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -392,14 +421,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="336" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605805183387" />
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1605793759445">
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1605806372036">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1605793759445" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605718799751">
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1605806372036" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605806282015">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605718799751" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605806282015" />
     <state x="623" y="236" key="run.anything.popup" timestamp="1605795372186">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
