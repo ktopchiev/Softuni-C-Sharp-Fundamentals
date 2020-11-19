@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/bin/Debug/netcoreapp3.1/Courses
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/bin/Debug/netcoreapp3.1/Courses.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/bin/Debug/netcoreapp3.1/Courses.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/bin/Debug/netcoreapp3.1/Courses.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/bin/Debug/netcoreapp3.1/Courses.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/bin/Debug/netcoreapp3.1/Courses.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/obj/Debug/netcoreapp3.1/Courses.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/obj/Debug/netcoreapp3.1/Courses.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/obj/Debug/netcoreapp3.1/Courses.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/obj/Debug/netcoreapp3.1/Courses.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/obj/Debug/netcoreapp3.1/Courses.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/obj/Debug/netcoreapp3.1/Courses.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/Courses/obj/Debug/netcoreapp3.1/Courses.genruntimeconfig.cache

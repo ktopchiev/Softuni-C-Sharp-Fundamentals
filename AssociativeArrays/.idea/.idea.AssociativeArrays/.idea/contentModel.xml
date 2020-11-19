@@ -29,6 +29,18 @@
           </e>
         </e>
       </e>
+      <e p="Courses" t="IncludeRecursive">
+        <e p="Courses.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Courses.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="LegendaryFarming" t="IncludeRecursive">
         <e p="LegendaryFarming.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />

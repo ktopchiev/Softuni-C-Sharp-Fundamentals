@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Orders\Orders.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniParking", "SoftUniParking\SoftUniParking.csproj", "{2D723D42-6954-47E1-97D7-04AACFA55400}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Courses", "Courses\Courses.csproj", "{711EEEBD-AEF5-4F18-9F59-1C958442A105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{2D723D42-6954-47E1-97D7-04AACFA55400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D723D42-6954-47E1-97D7-04AACFA55400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D723D42-6954-47E1-97D7-04AACFA55400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{711EEEBD-AEF5-4F18-9F59-1C958442A105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711EEEBD-AEF5-4F18-9F59-1C958442A105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711EEEBD-AEF5-4F18-9F59-1C958442A105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711EEEBD-AEF5-4F18-9F59-1C958442A105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
