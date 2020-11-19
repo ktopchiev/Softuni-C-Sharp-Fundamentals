@@ -8,6 +8,7 @@
     <projectFile>SoftUniParking/SoftUniParking.csproj</projectFile>
     <projectFile>Courses/Courses.csproj</projectFile>
     <projectFile>StudentAcademy/StudentAcademy.csproj</projectFile>
+    <projectFile>CompanyUsers/CompanyUsers.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -29,8 +30,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2c68238-f9c7-4fd2-a6b0-3f8deeaf4b2b" name="Default Changelist" comment="academy">
+      <change afterPath="$PROJECT_DIR$/CompanyUsers/CompanyUsers.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompanyUsers/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssociativeArrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentAcademy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StudentAcademy/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociativeArrays.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AssociativeArrays.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +65,7 @@
         <option value="$PROJECT_DIR$/SoftUniParking/Program.cs" />
         <option value="$PROJECT_DIR$/Courses/Program.cs" />
         <option value="$PROJECT_DIR$/StudentAcademy/Program.cs" />
+        <option value="$PROJECT_DIR$/CompanyUsers/Program.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +96,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/AMinerTask/AMinerTask.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="CompanyUsers" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CompanyUsers/CompanyUsers.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -221,7 +243,7 @@
       <workItem from="1605260094200" duration="4296000" />
       <workItem from="1605549247710" duration="8677000" />
       <workItem from="1605629359243" duration="13540000" />
-      <workItem from="1605708914978" duration="16696000" />
+      <workItem from="1605708914978" duration="18106000" />
     </task>
     <task id="LOCAL-00001" summary="countChars">
       <created>1605260114815</created>
@@ -314,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605807137831</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="academy">
+      <created>1605809500836</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605809500836</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,22 +381,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="514" height="525" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1605804596591" />
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1605807203473">
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1605809470271">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605807203473" />
-    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1605807203470">
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605809470271" />
+    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1605809470271">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605807203470" />
-    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1605807203469">
+    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605809470271" />
+    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1605809470270">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605807203469" />
-    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1605807203472">
+    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605809470270" />
+    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1605809470271">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605807203472" />
+    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605809470271" />
     <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1605805183381">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -416,14 +445,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="336" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605805183387" />
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1605806372036">
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1605813322260">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1605806372036" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605807142880">
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1605813322260" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605809504476">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605807142880" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605809504476" />
     <state x="623" y="236" key="run.anything.popup" timestamp="1605795372186">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
