@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/bin/Debug/netcoreapp3.1/CompanyUsers
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/bin/Debug/netcoreapp3.1/CompanyUsers.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/bin/Debug/netcoreapp3.1/CompanyUsers.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/bin/Debug/netcoreapp3.1/CompanyUsers.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/bin/Debug/netcoreapp3.1/CompanyUsers.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/bin/Debug/netcoreapp3.1/CompanyUsers.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/obj/Debug/netcoreapp3.1/CompanyUsers.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/obj/Debug/netcoreapp3.1/CompanyUsers.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/obj/Debug/netcoreapp3.1/CompanyUsers.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/obj/Debug/netcoreapp3.1/CompanyUsers.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/obj/Debug/netcoreapp3.1/CompanyUsers.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/obj/Debug/netcoreapp3.1/CompanyUsers.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/AssociativeArrays/CompanyUsers/obj/Debug/netcoreapp3.1/CompanyUsers.genruntimeconfig.cache
