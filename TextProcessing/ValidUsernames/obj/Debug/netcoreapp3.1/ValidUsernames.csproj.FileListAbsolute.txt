@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/bin/Debug/netcoreapp3.1/ValidUsernames
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/bin/Debug/netcoreapp3.1/ValidUsernames.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/bin/Debug/netcoreapp3.1/ValidUsernames.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/bin/Debug/netcoreapp3.1/ValidUsernames.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/bin/Debug/netcoreapp3.1/ValidUsernames.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/bin/Debug/netcoreapp3.1/ValidUsernames.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/TextProcessing/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.genruntimeconfig.cache
