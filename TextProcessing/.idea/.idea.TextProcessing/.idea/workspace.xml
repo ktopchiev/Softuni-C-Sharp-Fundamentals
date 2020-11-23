@@ -4,6 +4,7 @@
     <projectFile>ValidUsernames/ValidUsernames.csproj</projectFile>
     <projectFile>CharacterMultiplier/CharacterMultiplier.csproj</projectFile>
     <projectFile>ExtractFile/ExtractFile.csproj</projectFile>
+    <projectFile>CaesarCipher/CaesarCipher.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -24,29 +25,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81a24acb-b823-4010-9c87-b071ca3c6641" name="Default Changelist" comment="chars multiplier">
-      <change afterPath="$PROJECT_DIR$/ExtractFile/ExtractFile.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/bin/Debug/netcoreapp3.1/ExtractFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/bin/Debug/netcoreapp3.1/ExtractFile.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/bin/Debug/netcoreapp3.1/ExtractFile.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/bin/Debug/netcoreapp3.1/ExtractFile.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/bin/Debug/netcoreapp3.1/ExtractFile.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/bin/Debug/netcoreapp3.1/ExtractFile.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractFile/obj/rider.project.restore.info" afterDir="false" />
+    <list default="true" id="81a24acb-b823-4010-9c87-b071ca3c6641" name="Default Changelist" comment="caesar cipher">
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextProcessing.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessing.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaesarCipher/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharacterMultiplier/obj/Debug/netcoreapp3.1/CharacterMultiplier.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterMultiplier/obj/Debug/netcoreapp3.1/CharacterMultiplier.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/ExtractFile.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +54,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/63/Convert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CharacterMultiplier/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -65,6 +64,7 @@
         <option value="$PROJECT_DIR$/ValidUsernames/Program.cs" />
         <option value="$PROJECT_DIR$/CharacterMultiplier/Program.cs" />
         <option value="$PROJECT_DIR$/ExtractFile/Program.cs" />
+        <option value="$PROJECT_DIR$/CaesarCipher/Program.cs" />
       </list>
     </option>
   </component>
@@ -86,7 +86,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.ExtractFile">
+  <component name="RunManager" selected=".NET Project.CaesarCipher">
     <configuration name="CaesarCipher" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -168,7 +168,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606055235867</updated>
-      <workItem from="1606055255886" duration="5645000" />
+      <workItem from="1606055255886" duration="6053000" />
+      <workItem from="1606131488793" duration="548000" />
+      <workItem from="1606168672086" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="text processing">
       <created>1606055283215</created>
@@ -198,13 +200,34 @@
       <option name="project" value="LOCAL" />
       <updated>1606127447291</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="extract file">
+      <created>1606131012573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606131012573</updated>
+    </task>
+    <task id="LOCAL-00006" summary="extract file">
+      <created>1606131016762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606131016762</updated>
+    </task>
+    <task id="LOCAL-00007" summary="caesar cipher">
+      <created>1606131170938</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606131170938</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -216,6 +239,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -223,81 +247,83 @@
     <MESSAGE value="text processing" />
     <MESSAGE value="valid usernames" />
     <MESSAGE value="chars multiplier" />
-    <option name="LAST_COMMIT_MESSAGE" value="chars multiplier" />
+    <MESSAGE value="extract file" />
+    <MESSAGE value="caesar cipher" />
+    <option name="LAST_COMMIT_MESSAGE" value="caesar cipher" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606130854594">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606169595030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606130854594" />
-    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606130854594">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606169595030" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606169595028">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606130854594" />
-    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606130854593">
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606169595028" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606169595026">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606130854593" />
-    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606130854594">
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606169595026" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606169595029">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606130854594" />
-    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1606125233503">
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606169595029" />
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1606169526767">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233503" />
-    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1606125233502">
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526767" />
+    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1606169526766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233502" />
-    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1606125233502">
+    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526766" />
+    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1606169526766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233502" />
-    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1606125233503">
+    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526766" />
+    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1606169526766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233503" />
-    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1606125233504">
+    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526766" />
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1606169526767">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233504" />
-    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1606125233503">
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526767" />
+    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1606169526767">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233503" />
-    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1606125233503">
+    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526767" />
+    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1606169526767">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233503" />
-    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1606125233503">
+    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526767" />
+    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1606169526767">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233503" />
-    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1606125233505">
+    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526767" />
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1606169526768">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233505" />
-    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1606125233504">
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526768" />
+    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1606169526768">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233504" />
-    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1606125233504">
+    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526768" />
+    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1606169526768">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233504" />
-    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1606125233505">
+    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526768" />
+    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1606169526768">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606125233505" />
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1606127556892">
+    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606169526768" />
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1606131160454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1606127556892" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606127450222">
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1606131160454" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606131176636">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606127450222" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606131176636" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -314,6 +340,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CaesarCipher/Program.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/CaesarCipher/Program.cs" initialLine="15">
+            <startOffsets>
+              <option value="362" />
+            </startOffsets>
+            <endOffsets>
+              <option value="387" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
