@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsernames", "ValidUser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMultiplier", "CharacterMultiplier\CharacterMultiplier.csproj", "{EEAB8F99-9680-43CC-A10C-22DCA34279F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractFile", "ExtractFile\ExtractFile.csproj", "{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EEAB8F99-9680-43CC-A10C-22DCA34279F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEAB8F99-9680-43CC-A10C-22DCA34279F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEAB8F99-9680-43CC-A10C-22DCA34279F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
