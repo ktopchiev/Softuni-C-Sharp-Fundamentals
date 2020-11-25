@@ -22,21 +22,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6f32191-2f8f-41be-93a8-d88e80109dfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/MatchFullName.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/MatchFullName.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/MatchFullName.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Fundamentals Mid Exam - 29 February 2020 Group 1/.idea/.idea.Programming Fundamentals Mid Exam - 29 February 2020 Group 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming Fundamentals Mid Exam - 29 February 2020 Group 1/.idea/.idea.Programming Fundamentals Mid Exam - 29 February 2020 Group 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Fundamentals Mid Exam - 29 February 2020 Group 1/~$. Bonus Scoring System_01. Bonus Scoring System.docx" beforeDir="false" />
+    <list default="true" id="a6f32191-2f8f-41be-93a8-d88e80109dfe" name="Default Changelist" comment="regex">
+      <change afterPath="$PROJECT_DIR$/MatchFullName/bin/Debug/netcoreapp2.2/MatchFullName.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/bin/Debug/netcoreapp2.2/MatchFullName.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/bin/Debug/netcoreapp2.2/MatchFullName.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/bin/Debug/netcoreapp2.2/MatchFullName.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/bin/Debug/netcoreapp2.2/MatchFullName.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Regular Expressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Regular Expressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchFullName/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MatchFullName/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MatchFullName/obj/Debug/netcoreapp2.2/MatchFullName.AssemblyInfo.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MatchFullName/Program.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1klp1sfoOLCco09yY8bSGUhHcjO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -56,7 +62,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -88,8 +96,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606284852936</updated>
-      <workItem from="1606284902794" duration="551000" />
+      <workItem from="1606284902794" duration="1872000" />
     </task>
+    <task id="LOCAL-00001" summary="regex">
+      <created>1606285621431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606285621431</updated>
+    </task>
+    <task id="LOCAL-00002" summary="regex">
+      <created>1606285631911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606285631911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +134,41 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="regex" />
+    <option name="LAST_COMMIT_MESSAGE" value="regex" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606285535340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606285535340" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606287153260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606287153260" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606287153260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606287153260" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606287153260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606287153260" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606287153260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606287153260" />
+    <state x="147" y="65" key="MergeDialog" timestamp="1606285554537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1606285554537" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606285638351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606285638351" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606285485084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606285485084" />
   </component>
 </project>

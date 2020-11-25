@@ -1,12 +1,19 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
-namespace MatchFullName
+public class Example
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
+        string pattern = @"^([A-Z][a-z]{1,}+\s[A-Z][a-z]{1,}+)";
+        
+        string input = Console.ReadLine();
+        
+        MatchCollection matchedNames = Regex.Matches(input, pattern);
+        
+        foreach (Match name in matchedNames)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(name.Value + " ");
         }
     }
 }
