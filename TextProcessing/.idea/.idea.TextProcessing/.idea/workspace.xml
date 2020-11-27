@@ -7,6 +7,7 @@
     <projectFile>CaesarCipher/CaesarCipher.csproj</projectFile>
     <projectFile>MultiplyBigNumber/MultiplyBigNumber.csproj</projectFile>
     <projectFile>ReplaceRepeatingChars/ReplaceRepeatingChars.csproj</projectFile>
+    <projectFile>StringExplosion/StringExplosion.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -27,50 +28,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81a24acb-b823-4010-9c87-b071ca3c6641" name="Default Changelist" comment="Multiply big number">
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/ReplaceRepeatingChars.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/rider.project.restore.info" afterDir="false" />
+    <list default="true" id="81a24acb-b823-4010-9c87-b071ca3c6641" name="Default Changelist" comment="replace repeating chars">
+      <change afterPath="$PROJECT_DIR$/StringExplosion/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringExplosion/StringExplosion.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TextProcessing.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessing.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -83,6 +47,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/63/Convert.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/A2/Number.Parsing.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
@@ -96,8 +61,9 @@
         <option value="$PROJECT_DIR$/CharacterMultiplier/Program.cs" />
         <option value="$PROJECT_DIR$/ExtractFile/Program.cs" />
         <option value="$PROJECT_DIR$/CaesarCipher/Program.cs" />
-        <option value="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" />
         <option value="$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs" />
+        <option value="$PROJECT_DIR$/StringExplosion/Program.cs" />
+        <option value="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" />
       </list>
     </option>
   </component>
@@ -117,6 +83,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Regular Expressions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.ReplaceRepeatingChars">
@@ -210,6 +177,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="StringExplosion" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StringExplosion/StringExplosion.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="ValidUsernames" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -240,7 +225,8 @@
       <workItem from="1606055255886" duration="6053000" />
       <workItem from="1606131488793" duration="548000" />
       <workItem from="1606168672086" duration="7083000" />
-      <workItem from="1606208238251" duration="6328000" />
+      <workItem from="1606208238251" duration="7423000" />
+      <workItem from="1606514739170" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="text processing">
       <created>1606055283215</created>
@@ -305,7 +291,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606169711030</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="replace repeating chars">
+      <created>1606214627131</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606214627131</updated>
+    </task>
+    <task id="LOCAL-00011" summary="replace repeating chars">
+      <created>1606214632253</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606214632253</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,89 +335,98 @@
     <MESSAGE value="caesar cipher" />
     <MESSAGE value="CaesarCipher" />
     <MESSAGE value="Multiply big number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiply big number" />
+    <MESSAGE value="replace repeating chars" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace repeating chars" />
   </component>
   <component name="WindowStateProjectService">
     <state width="506" height="525" key="DebuggerActiveHint" timestamp="1606209173088">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="506" height="525" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1606209173088" />
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606214532773">
+    <state x="743" y="273" width="426" height="479" key="FileChooserDialogImpl" timestamp="1606514818934">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532773" />
-    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606214532772">
+    <state x="743" y="273" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1606514818934" />
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606215843849">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532772" />
-    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606214532771">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843849" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606215843848">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532771" />
-    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606214532773">
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843848" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606215843847">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532773" />
-    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1606214355003">
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843847" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606215843848">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
-    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1606214355003">
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843848" />
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1606215843842">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
-    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1606214355002">
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
+    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1606215843841">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355002" />
-    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1606214355003">
+    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843841" />
+    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1606215843840">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
-    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1606214355003">
+    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843840" />
+    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1606215843841">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
-    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1606214355003">
+    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843841" />
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1606215843843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
-    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1606214355003">
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843843" />
+    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1606215843842">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
-    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1606214355003">
+    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
+    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1606215843842">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
-    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1606214355004">
+    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
+    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1606215843842">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
-    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1606214355004">
+    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1606215843844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
-    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1606214355004">
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843844" />
+    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1606215843843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
-    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1606214355004">
+    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843843" />
+    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1606215843843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1606213983518">
+    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843843" />
+    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1606215843844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1606213983518" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606169721286">
+    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843844" />
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1606214666909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606169721286" />
+    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1606214666909" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606214636555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606214636555" />
     <state width="961" height="515" key="XDebugger.FullValuePopup" timestamp="1606172142237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="961" height="515" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1606172142237" />
+    <state x="733" y="429" width="445" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606514785349">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="733" y="429" width="445" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606514785349" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
