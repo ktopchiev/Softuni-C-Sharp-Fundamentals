@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_11_28_20,_12_06_AM_[Default_Changelist]" date="1606514804541" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/shelf/Uncommitted_changes_before_Update_at_11_28_20,_12_06_AM_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/28/20, 12:06 AM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/shelf/Uncommitted_changes_before_Update_at_11_28_20,_12_06_AM_[Default_Changelist]/ReplaceRepeatingChars.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/shelf/Uncommitted_changes_before_Update_at_11_28_20,_12_06_AM_[Default_Changelist]/MultiplyBigNumber.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/shelf/Uncommitted_changes_before_Update_at_11_28_20,_12_06_AM_[Default_Changelist]/ValidUsernames.csprojAssemblyReference.cache" />
+  </binary>
+</changelist>

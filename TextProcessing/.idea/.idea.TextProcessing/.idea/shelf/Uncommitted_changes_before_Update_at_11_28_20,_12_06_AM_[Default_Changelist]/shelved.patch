@@ -1,0 +1,366 @@
+Index: TextProcessing.sln
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\nMicrosoft Visual Studio Solution File, Format Version 12.00\nProject(\"{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\") = \"ValidUsernames\", \"ValidUsernames\\ValidUsernames.csproj\", \"{7840CF59-1AEB-474F-8FBA-21B1FFF431DF}\"\nEndProject\nProject(\"{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\") = \"CharacterMultiplier\", \"CharacterMultiplier\\CharacterMultiplier.csproj\", \"{EEAB8F99-9680-43CC-A10C-22DCA34279F7}\"\nEndProject\nProject(\"{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\") = \"ExtractFile\", \"ExtractFile\\ExtractFile.csproj\", \"{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}\"\nEndProject\nProject(\"{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\") = \"CaesarCipher\", \"CaesarCipher\\CaesarCipher.csproj\", \"{D3A5B9DF-0289-49ED-BF65-6010D088B8A2}\"\nEndProject\nProject(\"{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\") = \"MultiplyBigNumber\", \"MultiplyBigNumber\\MultiplyBigNumber.csproj\", \"{8BA1ED43-8130-423B-BD0D-3FDB1469681A}\"\nEndProject\nProject(\"{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\") = \"ReplaceRepeatingChars\", \"ReplaceRepeatingChars\\ReplaceRepeatingChars.csproj\", \"{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}\"\nEndProject\nGlobal\n\tGlobalSection(SolutionConfigurationPlatforms) = preSolution\n\t\tDebug|Any CPU = Debug|Any CPU\n\t\tRelease|Any CPU = Release|Any CPU\n\tEndGlobalSection\n\tGlobalSection(ProjectConfigurationPlatforms) = postSolution\n\t\t{7840CF59-1AEB-474F-8FBA-21B1FFF431DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU\n\t\t{7840CF59-1AEB-474F-8FBA-21B1FFF431DF}.Debug|Any CPU.Build.0 = Debug|Any CPU\n\t\t{7840CF59-1AEB-474F-8FBA-21B1FFF431DF}.Release|Any CPU.ActiveCfg = Release|Any CPU\n\t\t{7840CF59-1AEB-474F-8FBA-21B1FFF431DF}.Release|Any CPU.Build.0 = Release|Any CPU\n\t\t{EEAB8F99-9680-43CC-A10C-22DCA34279F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU\n\t\t{EEAB8F99-9680-43CC-A10C-22DCA34279F7}.Debug|Any CPU.Build.0 = Debug|Any CPU\n\t\t{EEAB8F99-9680-43CC-A10C-22DCA34279F7}.Release|Any CPU.ActiveCfg = Release|Any CPU\n\t\t{EEAB8F99-9680-43CC-A10C-22DCA34279F7}.Release|Any CPU.Build.0 = Release|Any CPU\n\t\t{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU\n\t\t{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Debug|Any CPU.Build.0 = Debug|Any CPU\n\t\t{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Release|Any CPU.ActiveCfg = Release|Any CPU\n\t\t{D81DB494-40FF-4A6A-8DF8-CEFF39A11850}.Release|Any CPU.Build.0 = Release|Any CPU\n\t\t{D3A5B9DF-0289-49ED-BF65-6010D088B8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU\n\t\t{D3A5B9DF-0289-49ED-BF65-6010D088B8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU\n\t\t{D3A5B9DF-0289-49ED-BF65-6010D088B8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU\n\t\t{D3A5B9DF-0289-49ED-BF65-6010D088B8A2}.Release|Any CPU.Build.0 = Release|Any CPU\n\t\t{8BA1ED43-8130-423B-BD0D-3FDB1469681A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU\n\t\t{8BA1ED43-8130-423B-BD0D-3FDB1469681A}.Debug|Any CPU.Build.0 = Debug|Any CPU\n\t\t{8BA1ED43-8130-423B-BD0D-3FDB1469681A}.Release|Any CPU.ActiveCfg = Release|Any CPU\n\t\t{8BA1ED43-8130-423B-BD0D-3FDB1469681A}.Release|Any CPU.Build.0 = Release|Any CPU\n\t\t{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU\n\t\t{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}.Debug|Any CPU.Build.0 = Debug|Any CPU\n\t\t{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}.Release|Any CPU.ActiveCfg = Release|Any CPU\n\t\t{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}.Release|Any CPU.Build.0 = Release|Any CPU\n\tEndGlobalSection\nEndGlobal\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- TextProcessing.sln	(revision 6b5d92d02a7047b923ab4f7eb8fb473cb75612c7)
++++ TextProcessing.sln	(date 1606214666616)
+@@ -12,6 +12,8 @@
+ EndProject
+ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceRepeatingChars", "ReplaceRepeatingChars\ReplaceRepeatingChars.csproj", "{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}"
+ EndProject
++Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExplosion", "StringExplosion\StringExplosion.csproj", "{37E9431B-B62E-443F-93FE-3754FCB63EA6}"
++EndProject
+ Global
+ 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+ 		Debug|Any CPU = Debug|Any CPU
+@@ -42,5 +44,9 @@
+ 		{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+ 		{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+ 		{45F7DDD4-0A51-4483-BA2F-03D6E7CEDF28}.Release|Any CPU.Build.0 = Release|Any CPU
++		{37E9431B-B62E-443F-93FE-3754FCB63EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
++		{37E9431B-B62E-443F-93FE-3754FCB63EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
++		{37E9431B-B62E-443F-93FE-3754FCB63EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
++		{37E9431B-B62E-443F-93FE-3754FCB63EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+ 	EndGlobalSection
+ EndGlobal
+Index: StringExplosion/StringExplosion.csproj
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- StringExplosion/StringExplosion.csproj	(date 1606214665756)
++++ StringExplosion/StringExplosion.csproj	(date 1606214665756)
+@@ -0,0 +1,8 @@
++<Project Sdk="Microsoft.NET.Sdk">
++
++    <PropertyGroup>
++        <OutputType>Exe</OutputType>
++        <TargetFramework>netcoreapp3.1</TargetFramework>
++    </PropertyGroup>
++
++</Project>
+Index: StringExplosion/Program.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- StringExplosion/Program.cs	(date 1606214666780)
++++ StringExplosion/Program.cs	(date 1606214666780)
+@@ -0,0 +1,12 @@
++using System;
++
++namespace StringExplosion
++{
++    class Program
++    {
++        static void Main(string[] args)
++        {
++            Console.WriteLine("Hello World!");
++        }
++    }
++}
+\ No newline at end of file
+Index: .idea/.idea.TextProcessing/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoGeneratedRunConfigurationManager\">\n    <projectFile>ValidUsernames/ValidUsernames.csproj</projectFile>\n    <projectFile>CharacterMultiplier/CharacterMultiplier.csproj</projectFile>\n    <projectFile>ExtractFile/ExtractFile.csproj</projectFile>\n    <projectFile>CaesarCipher/CaesarCipher.csproj</projectFile>\n    <projectFile>MultiplyBigNumber/MultiplyBigNumber.csproj</projectFile>\n    <projectFile>ReplaceRepeatingChars/ReplaceRepeatingChars.csproj</projectFile>\n  </component>\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"81a24acb-b823-4010-9c87-b071ca3c6641\" name=\"Default Changelist\" comment=\"Multiply big number\">\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.deps.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.dll\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.pdb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.runtimeconfig.dev.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.runtimeconfig.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csproj.CoreCompileInputs.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csproj.FileListAbsolute.txt\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csprojAssemblyReference.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.dll\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.genruntimeconfig.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.pdb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/ReplaceRepeatingChars.csproj\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.deps.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.dll\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.pdb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.runtimeconfig.dev.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.runtimeconfig.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.assets.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csproj.CoreCompileInputs.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csproj.FileListAbsolute.txt\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csprojAssemblyReference.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.dll\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.genruntimeconfig.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.pdb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.dgspec.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.g.props\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.g.targets\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/project.assets.json\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/project.nuget.cache\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/obj/rider.project.restore.info\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.dll\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.dll\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.pdb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.pdb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csprojAssemblyReference.cache\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csprojAssemblyReference.cache\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.dll\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.dll\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.pdb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.pdb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/MultiplyBigNumber/Program.cs\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/MultiplyBigNumber/Program.cs\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/TextProcessing.sln\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/TextProcessing.sln\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/63/Convert.cs\" root0=\"SKIP_HIGHLIGHTING\" />\n    <setting file=\"file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/A2/Number.Parsing.cs\" root0=\"SKIP_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs\" root0=\"SKIP_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/CharacterMultiplier/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs\" root0=\"SKIP_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs\" root0=\"SKIP_HIGHLIGHTING\" />\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/ValidUsernames/Program.cs\" />\n        <option value=\"$PROJECT_DIR$/CharacterMultiplier/Program.cs\" />\n        <option value=\"$PROJECT_DIR$/ExtractFile/Program.cs\" />\n        <option value=\"$PROJECT_DIR$/CaesarCipher/Program.cs\" />\n        <option value=\"$PROJECT_DIR$/MultiplyBigNumber/Program.cs\" />\n        <option value=\"$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"1keJceVKaf9L5lggQ8ab7s82loF\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"DebuggerViewTab_PTCS_FirstProportionKey\" value=\"0.34997287\" />\n    <property name=\"DebuggerViewTab_PTCS_LastProportionKey\" value=\"0.30005425\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RunManager\" selected=\".NET Project.ReplaceRepeatingChars\">\n    <configuration name=\"CaesarCipher\" type=\"DotNetProject\" factoryName=\".NET Project\">\n      <option name=\"EXE_PATH\" value=\"\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\n      <option name=\"USE_MONO\" value=\"0\" />\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/CaesarCipher/CaesarCipher.csproj\" />\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\n      <option name=\"PROJECT_TFM\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Build\" />\n      </method>\n    </configuration>\n    <configuration name=\"CharacterMultiplier\" type=\"DotNetProject\" factoryName=\".NET Project\">\n      <option name=\"EXE_PATH\" value=\"\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\n      <option name=\"USE_MONO\" value=\"0\" />\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/CharacterMultiplier/CharacterMultiplier.csproj\" />\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\n      <option name=\"PROJECT_TFM\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Build\" />\n      </method>\n    </configuration>\n    <configuration name=\"ExtractFile\" type=\"DotNetProject\" factoryName=\".NET Project\">\n      <option name=\"EXE_PATH\" value=\"\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\n      <option name=\"USE_MONO\" value=\"0\" />\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/ExtractFile/ExtractFile.csproj\" />\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\n      <option name=\"PROJECT_TFM\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Build\" />\n      </method>\n    </configuration>\n    <configuration name=\"MultiplyBigNumber\" type=\"DotNetProject\" factoryName=\".NET Project\">\n      <option name=\"EXE_PATH\" value=\"\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\n      <option name=\"USE_MONO\" value=\"0\" />\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/MultiplyBigNumber/MultiplyBigNumber.csproj\" />\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\n      <option name=\"PROJECT_TFM\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Build\" />\n      </method>\n    </configuration>\n    <configuration name=\"ReplaceRepeatingChars\" type=\"DotNetProject\" factoryName=\".NET Project\">\n      <option name=\"EXE_PATH\" value=\"\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\n      <option name=\"USE_MONO\" value=\"0\" />\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/ReplaceRepeatingChars/ReplaceRepeatingChars.csproj\" />\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\n      <option name=\"PROJECT_TFM\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Build\" />\n      </method>\n    </configuration>\n    <configuration name=\"ValidUsernames\" type=\"DotNetProject\" factoryName=\".NET Project\">\n      <option name=\"EXE_PATH\" value=\"\" />\n      <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"1\" />\n      <option name=\"USE_EXTERNAL_CONSOLE\" value=\"0\" />\n      <option name=\"USE_MONO\" value=\"0\" />\n      <option name=\"RUNTIME_ARGUMENTS\" value=\"\" />\n      <option name=\"PROJECT_PATH\" value=\"$PROJECT_DIR$/ValidUsernames/ValidUsernames.csproj\" />\n      <option name=\"PROJECT_EXE_PATH_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_ARGUMENTS_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_WORKING_DIRECTORY_TRACKING\" value=\"1\" />\n      <option name=\"PROJECT_KIND\" value=\"DotNetCore\" />\n      <option name=\"PROJECT_TFM\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Build\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"81a24acb-b823-4010-9c87-b071ca3c6641\" name=\"Default Changelist\" comment=\"\" />\n      <created>1606055235867</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1606055235867</updated>\n      <workItem from=\"1606055255886\" duration=\"6053000\" />\n      <workItem from=\"1606131488793\" duration=\"548000\" />\n      <workItem from=\"1606168672086\" duration=\"7083000\" />\n      <workItem from=\"1606208238251\" duration=\"6328000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"text processing\">\n      <created>1606055283215</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606055283215</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"text processing\">\n      <created>1606055289913</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606055289913</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"valid usernames\">\n      <created>1606125334027</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606125334027</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"chars multiplier\">\n      <created>1606127447290</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606127447291</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"extract file\">\n      <created>1606131012573</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606131012573</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"extract file\">\n      <created>1606131016762</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606131016762</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"caesar cipher\">\n      <created>1606131170938</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606131170938</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"CaesarCipher\">\n      <created>1606169630727</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606169630727</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Multiply big number\">\n      <created>1606169711030</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1606169711030</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"10\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"false\" />\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"NUnit\" />\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\n    <MESSAGE value=\"text processing\" />\n    <MESSAGE value=\"valid usernames\" />\n    <MESSAGE value=\"chars multiplier\" />\n    <MESSAGE value=\"extract file\" />\n    <MESSAGE value=\"caesar cipher\" />\n    <MESSAGE value=\"CaesarCipher\" />\n    <MESSAGE value=\"Multiply big number\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Multiply big number\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state width=\"506\" height=\"525\" key=\"DebuggerActiveHint\" timestamp=\"1606209173088\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"506\" height=\"525\" key=\"DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606209173088\" />\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1606214532773\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214532773\" />\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.center\" timestamp=\"1606214532772\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214532772\" />\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.left\" timestamp=\"1606214532771\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214532771\" />\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.right\" timestamp=\"1606214532773\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"272\" key=\"GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214532773\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1606214355003\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355003\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.center\" timestamp=\"1606214355003\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355003\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.left\" timestamp=\"1606214355002\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355002\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.right\" timestamp=\"1606214355003\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355003\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.bottom\" timestamp=\"1606214355003\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355003\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.center\" timestamp=\"1606214355003\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355003\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.left\" timestamp=\"1606214355003\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355003\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.right\" timestamp=\"1606214355003\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355003\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.bottom\" timestamp=\"1606214355004\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355004\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.center\" timestamp=\"1606214355004\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355004\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.left\" timestamp=\"1606214355004\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355004\" />\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.right\" timestamp=\"1606214355004\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"1874\" height=\"363\" key=\"GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606214355004\" />\n    <state x=\"555\" y=\"250\" width=\"802\" height=\"525\" key=\"Rider.ProjectTemplateDialog.Size\" timestamp=\"1606213983518\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state x=\"555\" y=\"250\" width=\"802\" height=\"525\" key=\"Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606213983518\" />\n    <state x=\"555\" y=\"251\" width=\"802\" height=\"523\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1606169721286\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state x=\"555\" y=\"251\" width=\"802\" height=\"523\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606169721286\" />\n    <state width=\"961\" height=\"515\" key=\"XDebugger.FullValuePopup\" timestamp=\"1606172142237\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1080\" />\n    </state>\n    <state width=\"961\" height=\"515\" key=\"XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080\" timestamp=\"1606172142237\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"DotNet Breakpoints\">\n          <url>file://$PROJECT_DIR$/ValidUsernames/Program.cs</url>\n          <line>14</line>\n          <properties documentPath=\"$PROJECT_DIR$/ValidUsernames/Program.cs\" initialLine=\"14\">\n            <startOffsets>\n              <option value=\"325\" />\n            </startOffsets>\n            <endOffsets>\n              <option value=\"356\" />\n            </endOffsets>\n          </properties>\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"DotNet Breakpoints\">\n          <url>file://$PROJECT_DIR$/CaesarCipher/Program.cs</url>\n          <line>14</line>\n          <properties documentPath=\"$PROJECT_DIR$/CaesarCipher/Program.cs\" initialLine=\"15\">\n            <startOffsets>\n              <option value=\"362\" />\n            </startOffsets>\n            <endOffsets>\n              <option value=\"387\" />\n            </endOffsets>\n          </properties>\n          <option name=\"timeStamp\" value=\"3\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"DotNet Breakpoints\">\n          <url>file://$PROJECT_DIR$/MultiplyBigNumber/Program.cs</url>\n          <line>17</line>\n          <properties documentPath=\"$PROJECT_DIR$/MultiplyBigNumber/Program.cs\" initialLine=\"17\">\n            <startOffsets>\n              <option value=\"448\" />\n            </startOffsets>\n            <endOffsets>\n              <option value=\"485\" />\n            </endOffsets>\n          </properties>\n          <option name=\"timeStamp\" value=\"9\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"DotNet Breakpoints\">\n          <url>file://$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs</url>\n          <line>13</line>\n          <properties documentPath=\"$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs\" initialLine=\"13\">\n            <startOffsets>\n              <option value=\"333\" />\n            </startOffsets>\n            <endOffsets>\n              <option value=\"374\" />\n            </endOffsets>\n          </properties>\n          <option name=\"timeStamp\" value=\"10\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.idea.TextProcessing/.idea/workspace.xml	(revision 6b5d92d02a7047b923ab4f7eb8fb473cb75612c7)
++++ .idea/.idea.TextProcessing/.idea/workspace.xml	(date 1606514741695)
+@@ -7,6 +7,7 @@
+     <projectFile>CaesarCipher/CaesarCipher.csproj</projectFile>
+     <projectFile>MultiplyBigNumber/MultiplyBigNumber.csproj</projectFile>
+     <projectFile>ReplaceRepeatingChars/ReplaceRepeatingChars.csproj</projectFile>
++    <projectFile>StringExplosion/StringExplosion.csproj</projectFile>
+   </component>
+   <component name="BranchesTreeState">
+     <expand>
+@@ -27,52 +28,10 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="81a24acb-b823-4010-9c87-b071ca3c6641" name="Default Changelist" comment="Multiply big number">
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.deps.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.dll" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.pdb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.runtimeconfig.dev.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/bin/Debug/netcoreapp3.1/MultiplyBigNumber.runtimeconfig.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csproj.CoreCompileInputs.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csproj.FileListAbsolute.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.csprojAssemblyReference.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.dll" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.genruntimeconfig.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/MultiplyBigNumber/obj/Debug/netcoreapp3.1/MultiplyBigNumber.pdb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/ReplaceRepeatingChars.csproj" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.deps.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.dll" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.pdb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.runtimeconfig.dev.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/ReplaceRepeatingChars.runtimeconfig.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.assets.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csproj.CoreCompileInputs.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csproj.FileListAbsolute.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.csprojAssemblyReference.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.dll" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.genruntimeconfig.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/ReplaceRepeatingChars.pdb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.dgspec.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.g.props" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/ReplaceRepeatingChars.csproj.nuget.g.targets" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/project.assets.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/project.nuget.cache" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ReplaceRepeatingChars/obj/rider.project.restore.info" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/contentModel.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextProcessing/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.dll" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/bin/Debug/netcoreapp3.1/CaesarCipher.pdb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.csprojAssemblyReference.cache" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.dll" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/obj/Debug/netcoreapp3.1/CaesarCipher.pdb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" afterDir="false" />
++    <list default="true" id="81a24acb-b823-4010-9c87-b071ca3c6641" name="Default Changelist" comment="replace repeating chars">
++      <change afterPath="$PROJECT_DIR$/StringExplosion/Program.cs" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/StringExplosion/StringExplosion.csproj" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/TextProcessing.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessing.sln" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ValidUsernames/obj/Debug/netcoreapp3.1/ValidUsernames.csprojAssemblyReference.cache" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -83,6 +42,7 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+   </component>
+   <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/63/Convert.cs" root0="SKIP_HIGHLIGHTING" />
+     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/A2/Number.Parsing.cs" root0="SKIP_HIGHLIGHTING" />
+     <setting file="file://$PROJECT_DIR$/ExtractFile/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+@@ -96,8 +56,9 @@
+         <option value="$PROJECT_DIR$/CharacterMultiplier/Program.cs" />
+         <option value="$PROJECT_DIR$/ExtractFile/Program.cs" />
+         <option value="$PROJECT_DIR$/CaesarCipher/Program.cs" />
+-        <option value="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" />
+         <option value="$PROJECT_DIR$/ReplaceRepeatingChars/Program.cs" />
++        <option value="$PROJECT_DIR$/StringExplosion/Program.cs" />
++        <option value="$PROJECT_DIR$/MultiplyBigNumber/Program.cs" />
+       </list>
+     </option>
+   </component>
+@@ -201,6 +162,24 @@
+       <option name="USE_MONO" value="0" />
+       <option name="RUNTIME_ARGUMENTS" value="" />
+       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReplaceRepeatingChars/ReplaceRepeatingChars.csproj" />
++      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
++      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
++      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
++      <option name="PROJECT_KIND" value="DotNetCore" />
++      <option name="PROJECT_TFM" value="" />
++      <method v="2">
++        <option name="Build" />
++      </method>
++    </configuration>
++    <configuration name="StringExplosion" type="DotNetProject" factoryName=".NET Project">
++      <option name="EXE_PATH" value="" />
++      <option name="PROGRAM_PARAMETERS" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="PASS_PARENT_ENVS" value="1" />
++      <option name="USE_EXTERNAL_CONSOLE" value="0" />
++      <option name="USE_MONO" value="0" />
++      <option name="RUNTIME_ARGUMENTS" value="" />
++      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StringExplosion/StringExplosion.csproj" />
+       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+@@ -240,7 +219,7 @@
+       <workItem from="1606055255886" duration="6053000" />
+       <workItem from="1606131488793" duration="548000" />
+       <workItem from="1606168672086" duration="7083000" />
+-      <workItem from="1606208238251" duration="6328000" />
++      <workItem from="1606208238251" duration="7423000" />
+     </task>
+     <task id="LOCAL-00001" summary="text processing">
+       <created>1606055283215</created>
+@@ -305,7 +284,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1606169711030</updated>
+     </task>
+-    <option name="localTasksCounter" value="10" />
++    <task id="LOCAL-00010" summary="replace repeating chars">
++      <created>1606214627131</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1606214627131</updated>
++    </task>
++    <task id="LOCAL-00011" summary="replace repeating chars">
++      <created>1606214632253</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1606214632253</updated>
++    </task>
++    <option name="localTasksCounter" value="12" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -335,85 +328,86 @@
+     <MESSAGE value="caesar cipher" />
+     <MESSAGE value="CaesarCipher" />
+     <MESSAGE value="Multiply big number" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Multiply big number" />
++    <MESSAGE value="replace repeating chars" />
++    <option name="LAST_COMMIT_MESSAGE" value="replace repeating chars" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state width="506" height="525" key="DebuggerActiveHint" timestamp="1606209173088">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+     <state width="506" height="525" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1606209173088" />
+-    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606214532773">
++    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606215843849">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532773" />
+-    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606214532772">
++    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843849" />
++    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606215843848">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532772" />
+-    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606214532771">
++    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843848" />
++    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606215843847">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532771" />
+-    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606214532773">
++    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843847" />
++    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606215843848">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214532773" />
+-    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1606214355003">
++    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843848" />
++    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1606215843842">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
+-    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1606214355003">
++    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
++    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1606215843841">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
+-    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1606214355002">
++    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843841" />
++    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1606215843840">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355002" />
+-    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1606214355003">
++    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843840" />
++    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1606215843841">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
+-    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1606214355003">
++    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843841" />
++    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1606215843843">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
+-    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1606214355003">
++    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843843" />
++    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1606215843842">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
+-    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1606214355003">
++    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
++    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1606215843842">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
+-    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1606214355003">
++    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
++    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1606215843842">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355003" />
+-    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1606214355004">
++    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843842" />
++    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1606215843844">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
+-    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1606214355004">
++    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843844" />
++    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1606215843843">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
+-    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1606214355004">
++    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843843" />
++    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1606215843843">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
+-    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1606214355004">
++    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843843" />
++    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1606215843844">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606214355004" />
+-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1606213983518">
++    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606215843844" />
++    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1606214666909">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1606213983518" />
+-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606169721286">
++    <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1606214666909" />
++    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606214636555">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606169721286" />
++    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606214636555" />
+     <state width="961" height="515" key="XDebugger.FullValuePopup" timestamp="1606172142237">
+       <screen x="0" y="0" width="1920" height="1080" />
+     </state>
+Index: .idea/.idea.TextProcessing/.idea/contentModel.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ContentModelStore\">\n    <e p=\"$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources\" t=\"IncludeRecursive\" />\n    <e p=\"$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_TextProcessing.1828193374.00\" t=\"ExcludeRecursive\" />\n    <e p=\"$PROJECT_DIR$\" t=\"IncludeFlat\">\n      <e p=\"CaesarCipher\" t=\"IncludeRecursive\">\n        <e p=\"CaesarCipher.csproj\" t=\"IncludeRecursive\" />\n        <e p=\"Program.cs\" t=\"Include\" />\n        <e p=\"bin\" t=\"ExcludeRecursive\" />\n        <e p=\"obj\" t=\"ExcludeRecursive\">\n          <e p=\"Debug\" t=\"Include\">\n            <e p=\"netcoreapp3.1\" t=\"Include\">\n              <e p=\"CaesarCipher.AssemblyInfo.cs\" t=\"Include\" />\n            </e>\n          </e>\n        </e>\n      </e>\n      <e p=\"CharacterMultiplier\" t=\"IncludeRecursive\">\n        <e p=\"CharacterMultiplier.csproj\" t=\"IncludeRecursive\" />\n        <e p=\"Program.cs\" t=\"Include\" />\n        <e p=\"bin\" t=\"ExcludeRecursive\" />\n        <e p=\"obj\" t=\"ExcludeRecursive\">\n          <e p=\"Debug\" t=\"Include\">\n            <e p=\"netcoreapp3.1\" t=\"Include\">\n              <e p=\"CharacterMultiplier.AssemblyInfo.cs\" t=\"Include\" />\n            </e>\n          </e>\n        </e>\n      </e>\n      <e p=\"ExtractFile\" t=\"IncludeRecursive\">\n        <e p=\"ExtractFile.csproj\" t=\"IncludeRecursive\" />\n        <e p=\"Program.cs\" t=\"Include\" />\n        <e p=\"bin\" t=\"ExcludeRecursive\" />\n        <e p=\"obj\" t=\"ExcludeRecursive\">\n          <e p=\"Debug\" t=\"Include\">\n            <e p=\"netcoreapp3.1\" t=\"Include\">\n              <e p=\"ExtractFile.AssemblyInfo.cs\" t=\"Include\" />\n            </e>\n          </e>\n        </e>\n      </e>\n      <e p=\"MultiplyBigNumber\" t=\"IncludeRecursive\">\n        <e p=\"MultiplyBigNumber.csproj\" t=\"IncludeRecursive\" />\n        <e p=\"Program.cs\" t=\"Include\" />\n        <e p=\"bin\" t=\"ExcludeRecursive\" />\n        <e p=\"obj\" t=\"ExcludeRecursive\">\n          <e p=\"Debug\" t=\"Include\">\n            <e p=\"netcoreapp3.1\" t=\"Include\">\n              <e p=\"MultiplyBigNumber.AssemblyInfo.cs\" t=\"Include\" />\n            </e>\n          </e>\n        </e>\n      </e>\n      <e p=\"ReplaceRepeatingChars\" t=\"IncludeRecursive\">\n        <e p=\"Program.cs\" t=\"Include\" />\n        <e p=\"ReplaceRepeatingChars.csproj\" t=\"IncludeRecursive\" />\n        <e p=\"bin\" t=\"ExcludeRecursive\" />\n        <e p=\"obj\" t=\"ExcludeRecursive\">\n          <e p=\"Debug\" t=\"Include\">\n            <e p=\"netcoreapp3.1\" t=\"Include\">\n              <e p=\"ReplaceRepeatingChars.AssemblyInfo.cs\" t=\"Include\" />\n            </e>\n          </e>\n        </e>\n      </e>\n      <e p=\"TextProcessing.sln\" t=\"IncludeFlat\" />\n      <e p=\"ValidUsernames\" t=\"IncludeRecursive\">\n        <e p=\"Program.cs\" t=\"Include\" />\n        <e p=\"ValidUsernames.csproj\" t=\"IncludeRecursive\" />\n        <e p=\"bin\" t=\"ExcludeRecursive\" />\n        <e p=\"obj\" t=\"ExcludeRecursive\">\n          <e p=\"Debug\" t=\"Include\">\n            <e p=\"netcoreapp3.1\" t=\"Include\">\n              <e p=\"ValidUsernames.AssemblyInfo.cs\" t=\"Include\" />\n            </e>\n          </e>\n        </e>\n      </e>\n      <e p=\"packages\" t=\"ExcludeRecursive\" />\n    </e>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.idea.TextProcessing/.idea/contentModel.xml	(revision 6b5d92d02a7047b923ab4f7eb8fb473cb75612c7)
++++ .idea/.idea.TextProcessing/.idea/contentModel.xml	(date 1606215844568)
+@@ -64,6 +64,18 @@
+           </e>
+         </e>
+       </e>
++      <e p="StringExplosion" t="IncludeRecursive">
++        <e p="Program.cs" t="Include" />
++        <e p="StringExplosion.csproj" t="IncludeRecursive" />
++        <e p="bin" t="ExcludeRecursive" />
++        <e p="obj" t="ExcludeRecursive">
++          <e p="Debug" t="Include">
++            <e p="netcoreapp3.1" t="Include">
++              <e p="StringExplosion.AssemblyInfo.cs" t="Include" />
++            </e>
++          </e>
++        </e>
++      </e>
+       <e p="TextProcessing.sln" t="IncludeFlat" />
+       <e p="ValidUsernames" t="IncludeRecursive">
+         <e p="Program.cs" t="Include" />
