@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/bin/Debug/netcoreapp3.1/MatchFullName
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/bin/Debug/netcoreapp3.1/MatchFullName.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/bin/Debug/netcoreapp3.1/MatchFullName.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/bin/Debug/netcoreapp3.1/MatchFullName.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/bin/Debug/netcoreapp3.1/MatchFullName.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/bin/Debug/netcoreapp3.1/MatchFullName.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/obj/Debug/netcoreapp3.1/MatchFullName.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/obj/Debug/netcoreapp3.1/MatchFullName.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/obj/Debug/netcoreapp3.1/MatchFullName.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/obj/Debug/netcoreapp3.1/MatchFullName.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/obj/Debug/netcoreapp3.1/MatchFullName.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/obj/Debug/netcoreapp3.1/MatchFullName.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchFullName/obj/Debug/netcoreapp3.1/MatchFullName.genruntimeconfig.cache

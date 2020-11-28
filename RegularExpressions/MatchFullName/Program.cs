@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace MatchFullName
 {
@@ -6,7 +7,17 @@ namespace MatchFullName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string pattern = @"\b[A-Z][a-z]+[^\S\t\n\r][A-Z][a-z]+";
+            string input = Console.ReadLine();
+            
+            MatchCollection matchedNames = Regex.Matches(input, pattern);
+
+            foreach (Match name in matchedNames)
+            {
+                Console.Write(name.Value + " ");
+            }
+
+            Console.WriteLine();
         }
     }
 }
