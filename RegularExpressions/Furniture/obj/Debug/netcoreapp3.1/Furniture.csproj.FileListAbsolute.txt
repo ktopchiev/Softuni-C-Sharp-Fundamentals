@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/bin/Debug/netcoreapp3.1/Furniture
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/bin/Debug/netcoreapp3.1/Furniture.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/bin/Debug/netcoreapp3.1/Furniture.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/bin/Debug/netcoreapp3.1/Furniture.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/bin/Debug/netcoreapp3.1/Furniture.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/bin/Debug/netcoreapp3.1/Furniture.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/obj/Debug/netcoreapp3.1/Furniture.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/obj/Debug/netcoreapp3.1/Furniture.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/obj/Debug/netcoreapp3.1/Furniture.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/obj/Debug/netcoreapp3.1/Furniture.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/obj/Debug/netcoreapp3.1/Furniture.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/obj/Debug/netcoreapp3.1/Furniture.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Furniture/obj/Debug/netcoreapp3.1/Furniture.genruntimeconfig.cache
