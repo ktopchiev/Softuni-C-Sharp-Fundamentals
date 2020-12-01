@@ -25,7 +25,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd2e91cc-9a11-454b-87a7-88f2778d4704" name="Default Changelist" comment="matchDates">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RegularExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RegularExpressions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MatchDates/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MatchDates/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606515501741</updated>
       <workItem from="1606515503332" duration="4874000" />
-      <workItem from="1606829158553" duration="7283000" />
+      <workItem from="1606829158553" duration="8174000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1606515878505</created>
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606849397437</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="matchDates">
+      <created>1606850379036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606850379036</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,22 +197,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="matchDates" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606846157423">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1606850326964">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606846157423" />
-    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606846157422">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606850326964" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1606850326964">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606846157422" />
-    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606846157422">
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606850326964" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1606850326963">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606846157422" />
-    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606846157422">
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606850326963" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1606850326964">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606846157422" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606850326964" />
     <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1606571745117">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -259,10 +265,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1606846271712" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606849403938">
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1606850382929">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606849403938" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606850382929" />
     <state x="623" y="236" key="run.anything.popup" timestamp="1606571737946">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
