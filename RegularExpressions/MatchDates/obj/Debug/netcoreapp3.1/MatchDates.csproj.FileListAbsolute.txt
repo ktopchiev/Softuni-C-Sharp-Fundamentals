@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/bin/Debug/netcoreapp3.1/MatchDates
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/bin/Debug/netcoreapp3.1/MatchDates.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/bin/Debug/netcoreapp3.1/MatchDates.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/bin/Debug/netcoreapp3.1/MatchDates.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/bin/Debug/netcoreapp3.1/MatchDates.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/bin/Debug/netcoreapp3.1/MatchDates.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/obj/Debug/netcoreapp3.1/MatchDates.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/obj/Debug/netcoreapp3.1/MatchDates.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/obj/Debug/netcoreapp3.1/MatchDates.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/obj/Debug/netcoreapp3.1/MatchDates.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/obj/Debug/netcoreapp3.1/MatchDates.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/obj/Debug/netcoreapp3.1/MatchDates.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/MatchDates/obj/Debug/netcoreapp3.1/MatchDates.genruntimeconfig.cache
