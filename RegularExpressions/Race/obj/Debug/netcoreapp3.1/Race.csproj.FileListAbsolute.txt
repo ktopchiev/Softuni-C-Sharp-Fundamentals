@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/obj/Debug/netcoreapp3.1/Race.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/obj/Debug/netcoreapp3.1/Race.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/obj/Debug/netcoreapp3.1/Race.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/obj/Debug/netcoreapp3.1/Race.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/bin/Debug/netcoreapp3.1/Race
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/bin/Debug/netcoreapp3.1/Race.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/bin/Debug/netcoreapp3.1/Race.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/bin/Debug/netcoreapp3.1/Race.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/bin/Debug/netcoreapp3.1/Race.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/bin/Debug/netcoreapp3.1/Race.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/obj/Debug/netcoreapp3.1/Race.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/obj/Debug/netcoreapp3.1/Race.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/Race/obj/Debug/netcoreapp3.1/Race.genruntimeconfig.cache
