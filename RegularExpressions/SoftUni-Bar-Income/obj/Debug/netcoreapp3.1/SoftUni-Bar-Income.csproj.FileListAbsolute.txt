@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/bin/Debug/netcoreapp3.1/SoftUni-Bar-Income
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/bin/Debug/netcoreapp3.1/SoftUni-Bar-Income.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/bin/Debug/netcoreapp3.1/SoftUni-Bar-Income.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/bin/Debug/netcoreapp3.1/SoftUni-Bar-Income.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/bin/Debug/netcoreapp3.1/SoftUni-Bar-Income.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/bin/Debug/netcoreapp3.1/SoftUni-Bar-Income.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/obj/Debug/netcoreapp3.1/SoftUni-Bar-Income.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/obj/Debug/netcoreapp3.1/SoftUni-Bar-Income.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/obj/Debug/netcoreapp3.1/SoftUni-Bar-Income.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/obj/Debug/netcoreapp3.1/SoftUni-Bar-Income.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/obj/Debug/netcoreapp3.1/SoftUni-Bar-Income.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/obj/Debug/netcoreapp3.1/SoftUni-Bar-Income.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/RegularExpressions/SoftUni-Bar-Income/obj/Debug/netcoreapp3.1/SoftUni-Bar-Income.genruntimeconfig.cache

@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race", "Race\Race.csproj", "{03A09B7A-BACC-4AF4-8CA3-3379B15C062E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni-Bar-Income", "SoftUni-Bar-Income\SoftUni-Bar-Income.csproj", "{017DC2D5-32A2-4B20-A944-6783CF2D7B13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{03A09B7A-BACC-4AF4-8CA3-3379B15C062E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A09B7A-BACC-4AF4-8CA3-3379B15C062E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A09B7A-BACC-4AF4-8CA3-3379B15C062E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017DC2D5-32A2-4B20-A944-6783CF2D7B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017DC2D5-32A2-4B20-A944-6783CF2D7B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017DC2D5-32A2-4B20-A944-6783CF2D7B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017DC2D5-32A2-4B20-A944-6783CF2D7B13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
