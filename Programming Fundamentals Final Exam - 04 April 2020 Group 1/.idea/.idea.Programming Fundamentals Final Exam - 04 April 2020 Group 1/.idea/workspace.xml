@@ -22,22 +22,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaec4aba-cc7f-49fc-bd6f-bd3e4b5bd464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Activation-Keys.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Activation-Keys.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Activation-Keys.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegularExpressions/.idea/.idea.RegularExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegularExpressions/.idea/.idea.RegularExpressions/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eaec4aba-cc7f-49fc-bd6f-bd3e4b5bd464" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activation-Keys/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Activation-Keys/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Activation-Keys/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,6 +68,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34997287" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005425" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -100,8 +105,16 @@
       <updated>1607184205755</updated>
       <workItem from="1607184221637" duration="1796000" />
       <workItem from="1607268283921" duration="255000" />
-      <workItem from="1607268738485" duration="619000" />
+      <workItem from="1607268738485" duration="2887000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1607269821161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607269821161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,11 +137,100 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1874" height="363" key="GridCell.Tab.0.bottom" timestamp="1607271438393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438393" />
+    <state width="1874" height="363" key="GridCell.Tab.0.center" timestamp="1607271438391">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438391" />
+    <state width="1874" height="363" key="GridCell.Tab.0.left" timestamp="1607271438390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438390" />
+    <state width="1874" height="363" key="GridCell.Tab.0.right" timestamp="1607271438392">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438392" />
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1607271438398">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438398" />
+    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1607271438395">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438395" />
+    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1607271438394">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438394" />
+    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1607271438397">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438397" />
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1607271438401">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438401" />
+    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1607271438400">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438400" />
+    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1607271438399">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438399" />
+    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1607271438400">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438400" />
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1607271438403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438403" />
+    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1607271438402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438402" />
+    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1607271438401">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438401" />
+    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1607271438402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438402" />
     <state x="555" y="250" key="Rider.ProjectTemplateDialog.Size" timestamp="1607184205003">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="250" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1607184205003" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1607269829706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607269829706" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Activation-Keys/Program.cs</url>
+          <line>28</line>
+          <properties documentPath="$PROJECT_DIR$/Activation-Keys/Program.cs" initialLine="26">
+            <startOffsets>
+              <option value="786" />
+            </startOffsets>
+            <endOffsets>
+              <option value="813" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
