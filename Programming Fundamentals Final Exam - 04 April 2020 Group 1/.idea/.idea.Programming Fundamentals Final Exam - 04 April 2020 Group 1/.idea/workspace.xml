@@ -22,19 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaec4aba-cc7f-49fc-bd6f-bd3e4b5bd464" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/bin/Debug/netcoreapp3.1/Activation-Keys.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/Activation-Keys.pdb" afterDir="false" />
+    <list default="true" id="eaec4aba-cc7f-49fc-bd6f-bd3e4b5bd464" name="Default Changelist" comment="Activation keys solved!">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Activation-Keys/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Activation-Keys/Program.cs" afterDir="false" />
     </list>
@@ -75,7 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Emoji-Detector">
     <configuration name="Activation-Keys" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -85,6 +73,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Activation-Keys/Activation-Keys.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Emoji-Detector" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Emoji-Detector/Emoji-Detector.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -105,7 +111,7 @@
       <updated>1607184205755</updated>
       <workItem from="1607184221637" duration="1796000" />
       <workItem from="1607268283921" duration="255000" />
-      <workItem from="1607268738485" duration="2887000" />
+      <workItem from="1607268738485" duration="3651000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1607269821161</created>
@@ -114,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607269821161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Activation keys solved!">
+      <created>1607272179935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607272179935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,25 +151,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Activation keys solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activation keys solved!" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="363" key="GridCell.Tab.0.bottom" timestamp="1607271438393">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1607272163483">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438393" />
-    <state width="1874" height="363" key="GridCell.Tab.0.center" timestamp="1607271438391">
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607272163483" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1607272163481">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438391" />
-    <state width="1874" height="363" key="GridCell.Tab.0.left" timestamp="1607271438390">
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607272163481" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1607272163480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438390" />
-    <state width="1874" height="363" key="GridCell.Tab.0.right" timestamp="1607271438392">
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607272163480" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1607272163482">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607271438392" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607272163482" />
     <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1607271438398">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -209,23 +223,23 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="250" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1607184205003" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1607269829706">
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1607272184763">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607269829706" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607272184763" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Activation-Keys/Program.cs</url>
-          <line>28</line>
+          <line>27</line>
           <properties documentPath="$PROJECT_DIR$/Activation-Keys/Program.cs" initialLine="26">
             <startOffsets>
-              <option value="786" />
+              <option value="767" />
             </startOffsets>
             <endOffsets>
-              <option value="813" />
+              <option value="794" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
