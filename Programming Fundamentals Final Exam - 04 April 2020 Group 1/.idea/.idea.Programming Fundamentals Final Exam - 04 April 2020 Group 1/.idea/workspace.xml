@@ -24,47 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaec4aba-cc7f-49fc-bd6f-bd3e4b5bd464" name="Default Changelist" comment="Emoji detector">
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/bin/Debug/netcoreapp3.1/Emoji-Detector" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/bin/Debug/netcoreapp3.1/Emoji-Detector.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/bin/Debug/netcoreapp3.1/Emoji-Detector.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/bin/Debug/netcoreapp3.1/Emoji-Detector.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/bin/Debug/netcoreapp3.1/Emoji-Detector.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/bin/Debug/netcoreapp3.1/Emoji-Detector.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/Emoji-Detector" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/Emoji-Detector.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/Emoji-Detector.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/Emoji-Detector.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/Emoji-Detector.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/Emoji-Detector.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/Emoji-Detector.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/Pirates.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/bin/Debug/netcoreapp3.1/Pirates" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/bin/Debug/netcoreapp3.1/Pirates.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/bin/Debug/netcoreapp3.1/Pirates.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/bin/Debug/netcoreapp3.1/Pirates.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/bin/Debug/netcoreapp3.1/Pirates.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/bin/Debug/netcoreapp3.1/Pirates.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/Pirates.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Pirates.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Pirates.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/Pirates.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pirates/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Programming Fundamentals Final Exam - 04 April 2020 Group 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Emoji-Detector/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Emoji-Detector/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Final Exam - 04 April 2020 Group 1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Final Exam - 04 April 2020 Group 1.sln" afterDir="false" />
-    </list>
+    <list default="true" id="eaec4aba-cc7f-49fc-bd6f-bd3e4b5bd464" name="Default Changelist" comment="Pirates solved and exam is finished with 300 points! Machine!!!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +36,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Emoji-Detector/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Activation-Keys/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pirates/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Activation-Keys/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -171,7 +132,7 @@
       <updated>1607184205755</updated>
       <workItem from="1607184221637" duration="1796000" />
       <workItem from="1607268283921" duration="255000" />
-      <workItem from="1607268738485" duration="16086000" />
+      <workItem from="1607268738485" duration="16279000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1607269821161</created>
@@ -194,7 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607273124316</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pirates solved and exam is finished with 300 points! Machine!!!">
+      <created>1607420752651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607420752651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Pirates solved and exam is finished with 300 points! Machine!!!">
+      <created>1607420770386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607420770386</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,81 +195,82 @@
     <MESSAGE value="." />
     <MESSAGE value="Activation keys solved!" />
     <MESSAGE value="Emoji detector" />
-    <option name="LAST_COMMIT_MESSAGE" value="Emoji detector" />
+    <MESSAGE value="Pirates solved and exam is finished with 300 points! Machine!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pirates solved and exam is finished with 300 points! Machine!!!" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="614" key="GridCell.Tab.0.bottom" timestamp="1607420186817">
+    <state width="1874" height="614" key="GridCell.Tab.0.bottom" timestamp="1607420911241">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="614" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420186817" />
-    <state width="1874" height="614" key="GridCell.Tab.0.center" timestamp="1607420186814">
+    <state width="1874" height="614" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911241" />
+    <state width="1874" height="614" key="GridCell.Tab.0.center" timestamp="1607420911240">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="614" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420186814" />
-    <state width="1874" height="614" key="GridCell.Tab.0.left" timestamp="1607420186813">
+    <state width="1874" height="614" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911240" />
+    <state width="1874" height="614" key="GridCell.Tab.0.left" timestamp="1607420911240">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="614" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420186813" />
-    <state width="1874" height="614" key="GridCell.Tab.0.right" timestamp="1607420186815">
+    <state width="1874" height="614" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911240" />
+    <state width="1874" height="614" key="GridCell.Tab.0.right" timestamp="1607420911241">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="614" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420186815" />
-    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1607420171449">
+    <state width="1874" height="614" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911241" />
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom" timestamp="1607420911235">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171449" />
-    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1607420171448">
+    <state width="1874" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911235" />
+    <state width="1874" height="363" key="GridCell.Tab.1.center" timestamp="1607420911235">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171448" />
-    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1607420171448">
+    <state width="1874" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911235" />
+    <state width="1874" height="363" key="GridCell.Tab.1.left" timestamp="1607420911235">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171448" />
-    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1607420171449">
+    <state width="1874" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911235" />
+    <state width="1874" height="363" key="GridCell.Tab.1.right" timestamp="1607420911235">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171449" />
-    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1607420171449">
+    <state width="1874" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911235" />
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom" timestamp="1607420911236">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171449" />
-    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1607420171449">
+    <state width="1874" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911236" />
+    <state width="1874" height="363" key="GridCell.Tab.2.center" timestamp="1607420911236">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171449" />
-    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1607420171449">
+    <state width="1874" height="363" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911236" />
+    <state width="1874" height="363" key="GridCell.Tab.2.left" timestamp="1607420911236">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171449" />
-    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1607420171449">
+    <state width="1874" height="363" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911236" />
+    <state width="1874" height="363" key="GridCell.Tab.2.right" timestamp="1607420911236">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171449" />
-    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1607420171450">
+    <state width="1874" height="363" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911236" />
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom" timestamp="1607420911237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171450" />
-    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1607420171450">
+    <state width="1874" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911237" />
+    <state width="1874" height="363" key="GridCell.Tab.3.center" timestamp="1607420911237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171450" />
-    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1607420171450">
+    <state width="1874" height="363" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911237" />
+    <state width="1874" height="363" key="GridCell.Tab.3.left" timestamp="1607420911237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171450" />
-    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1607420171450">
+    <state width="1874" height="363" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911237" />
+    <state width="1874" height="363" key="GridCell.Tab.3.right" timestamp="1607420911237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420171450" />
+    <state width="1874" height="363" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607420911237" />
     <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1607336432346">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1607336432346" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1607273137389">
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1607420775045">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607273137389" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607420775045" />
     <state width="961" height="515" key="XDebugger.FullValuePopup" timestamp="1607338424209">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
