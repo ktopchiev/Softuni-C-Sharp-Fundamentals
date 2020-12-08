@@ -16,6 +16,30 @@
           </e>
         </e>
       </e>
+      <e p="Emoji-Detector" t="IncludeRecursive">
+        <e p="Emoji-Detector.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Emoji-Detector.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Pirates" t="IncludeRecursive">
+        <e p="Pirates.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Pirates.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="Programming Fundamentals Final Exam - 04 April 2020 Group 1.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>

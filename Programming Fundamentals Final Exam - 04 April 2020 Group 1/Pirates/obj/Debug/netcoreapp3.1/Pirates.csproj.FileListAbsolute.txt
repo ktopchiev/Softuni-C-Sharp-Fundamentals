@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/bin/Debug/netcoreapp3.1/Pirates
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/bin/Debug/netcoreapp3.1/Pirates.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/bin/Debug/netcoreapp3.1/Pirates.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/bin/Debug/netcoreapp3.1/Pirates.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/bin/Debug/netcoreapp3.1/Pirates.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/bin/Debug/netcoreapp3.1/Pirates.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/obj/Debug/netcoreapp3.1/Pirates.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/obj/Debug/netcoreapp3.1/Pirates.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/obj/Debug/netcoreapp3.1/Pirates.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/obj/Debug/netcoreapp3.1/Pirates.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/obj/Debug/netcoreapp3.1/Pirates.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/obj/Debug/netcoreapp3.1/Pirates.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam - 04 April 2020 Group 1/Pirates/obj/Debug/netcoreapp3.1/Pirates.genruntimeconfig.cache
