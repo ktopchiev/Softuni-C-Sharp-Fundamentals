@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/bin/Debug/netcoreapp3.1/PlantDiscovery
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/bin/Debug/netcoreapp3.1/PlantDiscovery.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/bin/Debug/netcoreapp3.1/PlantDiscovery.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/bin/Debug/netcoreapp3.1/PlantDiscovery.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/bin/Debug/netcoreapp3.1/PlantDiscovery.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/bin/Debug/netcoreapp3.1/PlantDiscovery.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/obj/Debug/netcoreapp3.1/PlantDiscovery.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/obj/Debug/netcoreapp3.1/PlantDiscovery.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/obj/Debug/netcoreapp3.1/PlantDiscovery.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/obj/Debug/netcoreapp3.1/PlantDiscovery.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/obj/Debug/netcoreapp3.1/PlantDiscovery.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/obj/Debug/netcoreapp3.1/PlantDiscovery.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/PlantDiscovery/obj/Debug/netcoreapp3.1/PlantDiscovery.genruntimeconfig.cache
