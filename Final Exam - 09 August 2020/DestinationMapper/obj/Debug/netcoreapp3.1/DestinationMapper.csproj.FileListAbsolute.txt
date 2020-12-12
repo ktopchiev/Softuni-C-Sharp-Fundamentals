@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/bin/Debug/netcoreapp3.1/DestinationMapper
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/bin/Debug/netcoreapp3.1/DestinationMapper.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/bin/Debug/netcoreapp3.1/DestinationMapper.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/bin/Debug/netcoreapp3.1/DestinationMapper.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/bin/Debug/netcoreapp3.1/DestinationMapper.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/bin/Debug/netcoreapp3.1/DestinationMapper.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/obj/Debug/netcoreapp3.1/DestinationMapper.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/obj/Debug/netcoreapp3.1/DestinationMapper.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/obj/Debug/netcoreapp3.1/DestinationMapper.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/obj/Debug/netcoreapp3.1/DestinationMapper.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/obj/Debug/netcoreapp3.1/DestinationMapper.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/obj/Debug/netcoreapp3.1/DestinationMapper.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam - 09 August 2020/DestinationMapper/obj/Debug/netcoreapp3.1/DestinationMapper.genruntimeconfig.cache
