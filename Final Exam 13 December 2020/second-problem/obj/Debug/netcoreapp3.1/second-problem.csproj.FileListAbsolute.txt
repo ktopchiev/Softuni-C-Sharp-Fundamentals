@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/bin/Debug/netcoreapp3.1/second-problem
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/bin/Debug/netcoreapp3.1/second-problem.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/bin/Debug/netcoreapp3.1/second-problem.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/bin/Debug/netcoreapp3.1/second-problem.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/bin/Debug/netcoreapp3.1/second-problem.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/bin/Debug/netcoreapp3.1/second-problem.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/obj/Debug/netcoreapp3.1/second-problem.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/obj/Debug/netcoreapp3.1/second-problem.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/obj/Debug/netcoreapp3.1/second-problem.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/obj/Debug/netcoreapp3.1/second-problem.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/obj/Debug/netcoreapp3.1/second-problem.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/obj/Debug/netcoreapp3.1/second-problem.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Final Exam 13 December 2020/second-problem/obj/Debug/netcoreapp3.1/second-problem.genruntimeconfig.cache
