@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Imitation-Game/1.0.0": {
+        "runtime": {
+          "Imitation-Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Imitation-Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

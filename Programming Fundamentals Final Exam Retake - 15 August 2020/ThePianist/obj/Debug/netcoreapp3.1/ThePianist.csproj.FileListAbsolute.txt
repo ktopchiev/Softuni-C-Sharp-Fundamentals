@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/bin/Debug/netcoreapp3.1/ThePianist
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/bin/Debug/netcoreapp3.1/ThePianist.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/bin/Debug/netcoreapp3.1/ThePianist.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/bin/Debug/netcoreapp3.1/ThePianist.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/bin/Debug/netcoreapp3.1/ThePianist.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/bin/Debug/netcoreapp3.1/ThePianist.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/obj/Debug/netcoreapp3.1/ThePianist.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/obj/Debug/netcoreapp3.1/ThePianist.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/obj/Debug/netcoreapp3.1/ThePianist.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/obj/Debug/netcoreapp3.1/ThePianist.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/obj/Debug/netcoreapp3.1/ThePianist.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/obj/Debug/netcoreapp3.1/ThePianist.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/ThePianist/obj/Debug/netcoreapp3.1/ThePianist.genruntimeconfig.cache

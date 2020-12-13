@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add-Astra", "Add-Astra\Add-Astra.csproj", "{1DFE4D8E-3869-4AD6-9B7C-D5677FCCBC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imitation-Game", "Imitation-Game\Imitation-Game.csproj", "{7EE39D28-E33A-4EB3-82A8-87189806C124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePianist", "ThePianist\ThePianist.csproj", "{102768B2-9331-4B0F-8447-DBAAC6230B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFE4D8E-3869-4AD6-9B7C-D5677FCCBC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFE4D8E-3869-4AD6-9B7C-D5677FCCBC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFE4D8E-3869-4AD6-9B7C-D5677FCCBC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFE4D8E-3869-4AD6-9B7C-D5677FCCBC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE39D28-E33A-4EB3-82A8-87189806C124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE39D28-E33A-4EB3-82A8-87189806C124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE39D28-E33A-4EB3-82A8-87189806C124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE39D28-E33A-4EB3-82A8-87189806C124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102768B2-9331-4B0F-8447-DBAAC6230B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102768B2-9331-4B0F-8447-DBAAC6230B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102768B2-9331-4B0F-8447-DBAAC6230B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102768B2-9331-4B0F-8447-DBAAC6230B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

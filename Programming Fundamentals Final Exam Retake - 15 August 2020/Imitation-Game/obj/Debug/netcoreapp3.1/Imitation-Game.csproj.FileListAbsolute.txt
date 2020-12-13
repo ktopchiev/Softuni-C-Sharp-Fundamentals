@@ -1,0 +1,13 @@
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/obj/Debug/netcoreapp3.1/Imitation-Game.csprojAssemblyReference.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/obj/Debug/netcoreapp3.1/Imitation-Game.AssemblyInfoInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/obj/Debug/netcoreapp3.1/Imitation-Game.AssemblyInfo.cs
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/obj/Debug/netcoreapp3.1/Imitation-Game.csproj.CoreCompileInputs.cache
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/bin/Debug/netcoreapp3.1/Imitation-Game
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/bin/Debug/netcoreapp3.1/Imitation-Game.deps.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/bin/Debug/netcoreapp3.1/Imitation-Game.runtimeconfig.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/bin/Debug/netcoreapp3.1/Imitation-Game.runtimeconfig.dev.json
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/bin/Debug/netcoreapp3.1/Imitation-Game.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/bin/Debug/netcoreapp3.1/Imitation-Game.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/obj/Debug/netcoreapp3.1/Imitation-Game.dll
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/obj/Debug/netcoreapp3.1/Imitation-Game.pdb
+/home/ktopchiev/SU/Softuni-C-Sharp-Fundamentals/Programming Fundamentals Final Exam Retake - 15 August 2020/Imitation-Game/obj/Debug/netcoreapp3.1/Imitation-Game.genruntimeconfig.cache
