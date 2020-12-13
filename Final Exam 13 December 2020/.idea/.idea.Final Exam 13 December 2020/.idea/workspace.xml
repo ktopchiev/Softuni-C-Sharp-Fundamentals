@@ -25,60 +25,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a8965be-f154-4f35-bf95-299d171b3478" name="Default Changelist" comment="preparation for the final exam">
-      <change afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/.idea.Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/.idea.Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/.idea.Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/.idea.Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/.idea.Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/.idea/.idea.Programming Fundamentals Final Exam Retake - 15 August 2020/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/Add-Astra/Add-Astra.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/Add-Astra/bin/Debug/netcoreapp3.1/Add-Astra.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/Add-Astra/bin/Debug/netcoreapp3.1/Add-Astra.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Exam 13 December 2020/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Exam 13 December 2020/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="5a8965be-f154-4f35-bf95-299d171b3478" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Exam 13 December 2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Exam 13 December 2020/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-problem/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/first-problem/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/first-problem/bin/Debug/netcoreapp3.1/first-problem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/first-problem.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/second-problem/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/second-problem/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/second-problem/bin/Debug/netcoreapp3.1/second-problem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/second-problem/obj/Debug/netcoreapp3.1/second-problem.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/third-problem/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/third-problem/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/third-problem/bin/Debug/netcoreapp3.1/third-problem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/third-problem/obj/Debug/netcoreapp3.1/third-problem.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,15 +52,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Programming Fundamentals Final Exam Retake - 15 August 2020/Add-Astra/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/A2/Number.Parsing.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D2C999F3-F4FF-4CC9-B256-E3585DF0ED58/C/MatchCollection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/first-problem/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/second-problem/Program.cs" />
-        <option value="$PROJECT_DIR$/third-problem/Program.cs" />
         <option value="$PROJECT_DIR$/first-problem/Program.cs" />
+        <option value="$PROJECT_DIR$/third-problem/Program.cs" />
       </list>
     </option>
   </component>
@@ -117,7 +82,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.first-problem">
+  <component name="RunManager" selected=".NET Project.third-problem">
     <configuration name="Final Exam 13 December 2020" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -200,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607770460235</updated>
       <workItem from="1607770485314" duration="198000" />
-      <workItem from="1607850715217" duration="6817000" />
+      <workItem from="1607850715217" duration="10418000" />
     </task>
     <task id="LOCAL-00001" summary="preparation for the final exam">
       <created>1607770604298</created>
@@ -216,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607770609299</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1607858014070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607858014070</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".">
+      <created>1607858019801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607858019801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,127 +219,115 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="preparation for the final exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="preparation for the final exam" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state width="508" height="525" key="DebuggerActiveHint" timestamp="1607852674861">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="508" height="525" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1607852674861" />
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1607857875834">
+    <state width="1874" height="250" key="GridCell.Tab.0.bottom" timestamp="1607861448661">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607857875834" />
-    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1607857875834">
+    <state width="1874" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448661" />
+    <state width="1874" height="250" key="GridCell.Tab.0.center" timestamp="1607861448659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607857875834" />
-    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1607857875833">
+    <state width="1874" height="250" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448659" />
+    <state width="1874" height="250" key="GridCell.Tab.0.left" timestamp="1607861448658">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607857875833" />
-    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1607857875834">
+    <state width="1874" height="250" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448658" />
+    <state width="1874" height="250" key="GridCell.Tab.0.right" timestamp="1607861448660">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607857875834" />
-    <state width="1874" height="250" key="GridCell.Tab.1.bottom" timestamp="1607857874322">
+    <state width="1874" height="250" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448660" />
+    <state width="1874" height="250" key="GridCell.Tab.1.bottom" timestamp="1607861448664">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874322" />
-    <state width="1874" height="250" key="GridCell.Tab.1.center" timestamp="1607857874322">
+    <state width="1874" height="250" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448664" />
+    <state width="1874" height="250" key="GridCell.Tab.1.center" timestamp="1607861448663">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874322" />
-    <state width="1874" height="250" key="GridCell.Tab.1.left" timestamp="1607857874322">
+    <state width="1874" height="250" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448663" />
+    <state width="1874" height="250" key="GridCell.Tab.1.left" timestamp="1607861448662">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874322" />
-    <state width="1874" height="250" key="GridCell.Tab.1.right" timestamp="1607857874322">
+    <state width="1874" height="250" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448662" />
+    <state width="1874" height="250" key="GridCell.Tab.1.right" timestamp="1607861448663">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874322" />
-    <state width="1874" height="250" key="GridCell.Tab.2.bottom" timestamp="1607857874323">
+    <state width="1874" height="250" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448663" />
+    <state width="1874" height="250" key="GridCell.Tab.2.bottom" timestamp="1607861448666">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874323" />
-    <state width="1874" height="250" key="GridCell.Tab.2.center" timestamp="1607857874323">
+    <state width="1874" height="250" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448666" />
+    <state width="1874" height="250" key="GridCell.Tab.2.center" timestamp="1607861448665">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874323" />
-    <state width="1874" height="250" key="GridCell.Tab.2.left" timestamp="1607857874323">
+    <state width="1874" height="250" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448665" />
+    <state width="1874" height="250" key="GridCell.Tab.2.left" timestamp="1607861448664">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874323" />
-    <state width="1874" height="250" key="GridCell.Tab.2.right" timestamp="1607857874323">
+    <state width="1874" height="250" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448664" />
+    <state width="1874" height="250" key="GridCell.Tab.2.right" timestamp="1607861448665">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874323" />
-    <state width="1874" height="250" key="GridCell.Tab.3.bottom" timestamp="1607857874324">
+    <state width="1874" height="250" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448665" />
+    <state width="1874" height="250" key="GridCell.Tab.3.bottom" timestamp="1607861448668">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874324" />
-    <state width="1874" height="250" key="GridCell.Tab.3.center" timestamp="1607857874324">
+    <state width="1874" height="250" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448668" />
+    <state width="1874" height="250" key="GridCell.Tab.3.center" timestamp="1607861448667">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874324" />
-    <state width="1874" height="250" key="GridCell.Tab.3.left" timestamp="1607857874324">
+    <state width="1874" height="250" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448667" />
+    <state width="1874" height="250" key="GridCell.Tab.3.left" timestamp="1607861448666">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874324" />
-    <state width="1874" height="250" key="GridCell.Tab.3.right" timestamp="1607857874324">
+    <state width="1874" height="250" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448666" />
+    <state width="1874" height="250" key="GridCell.Tab.3.right" timestamp="1607861448668">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="250" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607857874324" />
+    <state width="1874" height="250" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607861448668" />
     <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1607770583036">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="555" y="250" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1607770583036" />
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1607858002570">
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1607858022161">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607858002570" />
+    <state x="555" y="251" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607858022161" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/second-problem/Program.cs</url>
-          <line>16</line>
-          <properties documentPath="$PROJECT_DIR$/second-problem/Program.cs" initialLine="16">
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/second-problem/Program.cs" initialLine="20">
             <startOffsets>
-              <option value="407" />
+              <option value="544" />
             </startOffsets>
             <endOffsets>
-              <option value="438" />
+              <option value="563" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/third-problem/Program.cs</url>
-          <line>23</line>
-          <properties documentPath="$PROJECT_DIR$/third-problem/Program.cs" initialLine="23">
-            <startOffsets>
-              <option value="586" />
-            </startOffsets>
-            <endOffsets>
-              <option value="651" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/first-problem/Program.cs</url>
-          <line>24</line>
-          <properties documentPath="$PROJECT_DIR$/first-problem/Program.cs" initialLine="24">
+          <line>37</line>
+          <properties documentPath="$PROJECT_DIR$/first-problem/Program.cs" initialLine="37">
             <startOffsets>
-              <option value="608" />
+              <option value="1204" />
             </startOffsets>
             <endOffsets>
-              <option value="638" />
+              <option value="1230" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

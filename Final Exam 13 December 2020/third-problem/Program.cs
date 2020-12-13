@@ -35,27 +35,26 @@ namespace third_problem
                 else if (action == "Like")
                 {
                     var username = input[1];
-                    var count = double.Parse(input[2]);
+                    var likesCount = double.Parse(input[2]);
 
-                    if (count >= 0)
-                    {
-                        if (followers.ContainsKey(username))
-                        {
-                            var followersData = followers[username];
-                            followersData[0] += count;
-                        }
-                        else
-                        {
-                        
-                            List<double> followersData = new List<double>()
-                            {
-                                count,
-                                0
-                            };
                     
-                            followers.Add(username, followersData);
-                        }
+                    if (followers.ContainsKey(username))
+                    {
+                        var followersData = followers[username];
+                        followersData[0] += likesCount;
                     }
+                    else
+                    {
+                    
+                        List<double> followersData = new List<double>()
+                        {
+                            likesCount,
+                            0
+                        };
+                
+                        followers.Add(username, followersData);
+                    }
+                    
                 }
                 else if (action == "Comment")
                 {
@@ -81,11 +80,11 @@ namespace third_problem
 
                     if (!followers.ContainsKey(username))
                     {
-                        Console.WriteLine($"{username} doesn't exist.");
+                        Console.WriteLine($"{username.TrimStart()} doesn't exist.");
                     }
                     else
                     {
-                        followers.Remove(username);   
+                        followers.Remove(username);
                     }
                 }
             }

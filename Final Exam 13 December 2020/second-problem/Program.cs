@@ -9,7 +9,7 @@ namespace second_problem
         {
             var n = int.Parse(Console.ReadLine());
 
-            string pattern = @"(\$|\%)(?<request>[A-Z][a-z]{2,})\1:\s\[(\d+)\]\|\[(\d+)\]\|\[(\d+)\]\|";
+            string pattern = @"^(\$|\%)(?<request>[A-Z][a-z]{2,})\1:\s\[(\d+)\]\|\[(\d+)\]\|\[(\d+)\]\|$";
             
             
             for (int i = 0; i < n; i++)
